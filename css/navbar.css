@@ -1,0 +1,78 @@
+body > nav{
+background: rgba(255,255,255,0.2)!important;
+border: none!important;
+padding-top: 0.5%;
+height: 100%;
+}
+.container.full-width {
+  width: auto;
+}
+#navbar > ul{
+padding-left: 10px;
+padding-top: 1.6%;
+}
+body > nav > div.navbar-header > a > img{
+padding-left: 30px;
+}
+#navbar > ul > li{
+background: transparent!important;
+}
+#navbar > ul > li > a{
+background: #e7e7e7!important;
+border: 3px solid white;
+border-radius: 8px;
+}
+
+#navbar > ul > div > form > div .input-group{
+height: 100px;
+}
+#navbar > ul.nav.navbar-nav > li.dropdown.open > ul > li > a{
+background: #e7e7e7!important;
+padding-bottom:  2px;
+}
+#navbar > ul.nav.navbar-nav > li.dropdown.open > ul > li{
+padding-bottom:  5px;
+padding-left: 2px;
+padding-right: 2px;
+}
+
+
+#dashboard > div.modal-dialog > div > div.modal-footer > div > button{
+background: #696969!important;
+color: #fff;
+padding-right:50px;
+position: relative;
+display: inline;
+}
+.modal-footer{
+display: inline-block;
+}
+
+#main > div > img{
+    box-shadow: 10px 10px 5px #888888!important;
+    border: 2px solid #D4D4D4;
+}
+#main > div > div > a > img{
+    box-shadow: 10px 10px 5px #888888!important;
+    border: 2px solid #D4D4D4;
+    
+}
+#main > div.button > button{
+background: #696969!important;
+}
+#main > div.button > button >a{
+background: #696969!important;
+color: #fff;
+}
+
+#main > div.page-header > div > ul > li> a > h4{
+text-align: left;
+}
+
+#main > div.page-header > div > ul > li{
+padding-top: 2%;
+}
+
+#user > div.modal-dialog > div > div.modal-body > div> div{
+padding-top: 2%;
+}
