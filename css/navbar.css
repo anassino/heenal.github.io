@@ -52,7 +52,7 @@ display: inline-block;
     box-shadow: 10px 10px 5px #888888!important;
     border: 2px solid #D4D4D4;
 }
-#main > div > div > a > img{
+body > div > div > div:nth-child(1) > a > img{
     box-shadow: 10px 10px 5px #888888!important;
     border: 2px solid #D4D4D4;
     
@@ -75,4 +75,11 @@ padding-top: 2%;
 
 #user > div.modal-dialog > div > div.modal-body > div> div{
 padding-top: 2%;
+}
+@media (max-width: @screen-xs) {
+    body{font-size: 9px;}
+}
+
+@media (max-width: @screen-sm) {
+    body{font-size: 12px;}
 }

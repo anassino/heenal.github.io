@@ -1,0 +1,1288 @@
+[
+    {"outTimestamp" : 1415635862,
+    "compressionRatioInPercent": 13.974863249659291
+            },
+    {
+        "outTimestamp": 1415635965,
+        "compressionRatioInPercent": 14.771445012891368
+            },
+    {
+        "outTimestamp": 1415636146,
+        "compressionRatioInPercent": 15.475327655845122
+            },
+    {
+        "outTimestamp": 1415636244,
+        "compressionRatioInPercent": 14.30788993821171},
+    {
+        "outTimestamp": 1415636438,
+        "compressionRatioInPercent": 14.607354278983063},
+    {
+        "outTimestamp": 1415636556,
+        "compressionRatioInPercent": 15.077226972689314
+            },
+    {
+        "outTimestamp": 1415636619,
+        "compressionRatioInPercent": 14.65856533417881},
+    {
+        "outTimestamp": 1415636707,
+        "compressionRatioInPercent": 14.717103416736073
+            },
+    {
+        "outTimestamp": 1415636810,
+        "compressionRatioInPercent": 15.26250517332104},
+    {
+        "outTimestamp": 1415636949,
+        "compressionRatioInPercent": 14.854992120633822
+            },
+    {
+        "outTimestamp": 1415637814,
+        "compressionRatioInPercent": 14.762256710956201
+            },
+    {
+        "outTimestamp": 1415637969,
+        "compressionRatioInPercent": 15.228219241011887
+            },
+    {
+        "outTimestamp": 1415638048,
+        "compressionRatioInPercent": 14.212368965464469
+            },
+    {
+        "outTimestamp": 1415638125,
+        "compressionRatioInPercent": 14.51545651526905},
+    {
+        "outTimestamp": 1415638486,
+        "compressionRatioInPercent": 14.963050044052618
+            },
+    {
+        "outTimestamp": 1415638566,
+        "compressionRatioInPercent": 14.640828229421208
+            },
+    {
+        "outTimestamp": 1415638610,
+        "compressionRatioInPercent": 15.014794593264657
+            },
+    {
+        "outTimestamp": 1415638652,
+        "compressionRatioInPercent": 14.010039457796182
+            },
+    {
+        "outTimestamp": 1415638717,
+        "compressionRatioInPercent": 14.255716711677712
+            },
+    {
+        "outTimestamp": 1415639000,
+        "compressionRatioInPercent": 14.7670587333594},
+    {
+        "outTimestamp": 1415639754,
+        "compressionRatioInPercent": 14.920884214523356
+            },
+    {
+        "outTimestamp": 1415639895,
+        "compressionRatioInPercent": 15.011934336589478
+            },
+    {
+        "outTimestamp": 1415640070,
+        "compressionRatioInPercent": 14.783887108770653
+            },
+    {
+        "outTimestamp": 1415640310,
+        "compressionRatioInPercent": 14.583736764197178
+            },
+    {
+        "outTimestamp": 1415643066,
+        "compressionRatioInPercent": 14.223246522000379
+            },
+    {
+        "outTimestamp": 1415643116,
+        "compressionRatioInPercent": 15.456194405243012
+            },
+    {
+        "outTimestamp": 1415644288,
+        "compressionRatioInPercent": 14.742357485720985
+            },
+    {
+        "outTimestamp": 1415644342,
+        "compressionRatioInPercent": 14.771445012891368
+            },
+    {
+        "outTimestamp": 1415644434,
+        "compressionRatioInPercent": 15.475327655845122
+            },
+    {
+        "outTimestamp": 1415644484,
+        "compressionRatioInPercent": 14.30788993821171},
+    {
+        "outTimestamp": 1415644646,
+        "compressionRatioInPercent": 14.607354278983063
+            },
+    {
+        "outTimestamp": 1415644763,
+        "compressionRatioInPercent": 15.077226972689314
+            },
+    {
+        "outTimestamp": 1415644827,
+        "compressionRatioInPercent": 14.65856533417881},
+    {
+        "outTimestamp": 1415644912,
+        "compressionRatioInPercent": 14.717103416736073
+            },
+    {
+        "outTimestamp": 1415645009,
+        "compressionRatioInPercent": 15.26250517332104},
+    {
+        "outTimestamp": 1415645127,
+        "compressionRatioInPercent": 14.854992120633822
+            },
+    {
+        "outTimestamp": 1415645854,
+        "compressionRatioInPercent": 14.762256710956201
+            },
+    {
+        "outTimestamp": 1415646007,
+        "compressionRatioInPercent": 15.228219241011887
+            },
+    {
+        "outTimestamp": 1415646084,
+        "compressionRatioInPercent": 14.212368965464469
+            },
+    {
+        "outTimestamp": 1415646160,
+        "compressionRatioInPercent": 14.51545651526905},
+    {
+        "outTimestamp": 1415646516,
+        "compressionRatioInPercent": 14.963050044052618
+            },
+    {
+        "outTimestamp": 1415646592,
+        "compressionRatioInPercent": 14.640828229421208
+            },
+    {
+        "outTimestamp": 1415646637,
+        "compressionRatioInPercent": 15.014794593264657
+            },
+    {
+        "outTimestamp": 1415646680,
+        "compressionRatioInPercent": 14.010039457796182
+            },
+    {
+        "outTimestamp": 1415646743,
+        "compressionRatioInPercent": 14.255716711677712
+            },
+    {
+        "outTimestamp": 1415647029,
+        "compressionRatioInPercent": 14.7670587333594},
+    {
+        "outTimestamp": 1415647783,
+        "compressionRatioInPercent": 14.920884214523356
+            },
+    {
+        "outTimestamp": 1415647922,
+        "compressionRatioInPercent": 15.011934336589478
+            },
+    {
+        "outTimestamp": 1415650184,
+        "compressionRatioInPercent": 14.569409994069874
+            },
+    {
+        "outTimestamp": 1415650264,
+        "compressionRatioInPercent": 14.693215750798116
+            },
+    {
+        "outTimestamp": 1415650374,
+        "compressionRatioInPercent": 14.223246522000379
+            },
+    {
+        "outTimestamp": 1415650426,
+        "compressionRatioInPercent": 15.456194405243012
+            },
+    {
+        "outTimestamp": 1415651801,
+        "compressionRatioInPercent": 14.742357485720985
+            },
+    {
+        "outTimestamp": 1415651865,
+        "compressionRatioInPercent": 14.771445012891368
+            },
+    {
+        "outTimestamp": 1415651967,
+        "compressionRatioInPercent": 15.475327655845122
+            },
+    {
+        "outTimestamp": 1415652026,
+        "compressionRatioInPercent": 14.30788993821171},
+    {
+        "outTimestamp": 1415652234,
+        "compressionRatioInPercent": 14.607354278983063
+            },
+    {
+        "outTimestamp": 1415652386,
+        "compressionRatioInPercent": 15.077226972689314
+            },
+    {
+        "outTimestamp": 1415652458,
+        "compressionRatioInPercent": 14.65856533417881},
+    {
+        "outTimestamp": 1415652541,
+        "compressionRatioInPercent": 14.717103416736073
+            },
+    {
+        "outTimestamp": 1415652641,
+        "compressionRatioInPercent": 15.26250517332104},
+    {
+        "outTimestamp": 1415652758,
+        "compressionRatioInPercent": 14.854992120633822
+            },
+    {
+        "outTimestamp": 1415653501,
+        "compressionRatioInPercent": 14.762256710956201
+            },
+    {
+        "outTimestamp": 1415653668,
+        "compressionRatioInPercent": 15.228219241011887
+            },
+    {
+        "outTimestamp": 1415653746,
+        "compressionRatioInPercent": 14.212368965464469
+            },
+    {
+        "outTimestamp": 1415653822,
+        "compressionRatioInPercent": 14.51545651526905},
+    {
+        "outTimestamp": 1415654179,
+        "compressionRatioInPercent": 14.963050044052618
+            },
+    {
+        "outTimestamp": 1415654255,
+        "compressionRatioInPercent": 14.640828229421208
+            },
+    {
+        "outTimestamp": 1415654299,
+        "compressionRatioInPercent": 15.014794593264657
+            },
+    {
+        "outTimestamp": 1415654341,
+        "compressionRatioInPercent": 14.010039457796182
+            },
+    {
+        "outTimestamp": 1415654405,
+        "compressionRatioInPercent": 14.255716711677712
+            },
+    {
+        "outTimestamp": 1415654689,
+        "compressionRatioInPercent": 14.7670587333594},
+    {
+        "outTimestamp": 1415657378,
+        "compressionRatioInPercent": 15.295237663783736
+            },
+    {
+        "outTimestamp": 1415657518,
+        "compressionRatioInPercent": 14.737009951239045
+            },
+    {
+        "outTimestamp": 1415657697,
+        "compressionRatioInPercent": 14.623816378870089
+            },
+    {
+        "outTimestamp": 1415657931,
+        "compressionRatioInPercent": 14.919894148094949
+            },
+    {
+        "outTimestamp": 1415658098,
+        "compressionRatioInPercent": 14.864059074870214
+            },
+    {
+        "outTimestamp": 1415658916,
+        "compressionRatioInPercent": 14.78662055830278},
+    {
+        "outTimestamp": 1415658969,
+        "compressionRatioInPercent": 14.569409994069874
+            },
+    {
+        "outTimestamp": 1415659030,
+        "compressionRatioInPercent": 14.693215750798116
+            },
+    {
+        "outTimestamp": 1415659073,
+        "compressionRatioInPercent": 15.456194405243012
+            },
+    {
+        "outTimestamp": 1415660194,
+        "compressionRatioInPercent": 14.742357485720985
+            },
+    {
+        "outTimestamp": 1415660247,
+        "compressionRatioInPercent": 14.771445012891368
+            },
+    {
+        "outTimestamp": 1415660337,
+        "compressionRatioInPercent": 15.475327655845122
+            },
+    {
+        "outTimestamp": 1415660388,
+        "compressionRatioInPercent": 14.30788993821171 },
+    {
+        "outTimestamp": 1415660552,
+        "compressionRatioInPercent": 14.607354278983063
+            },
+    {
+        "outTimestamp": 1415660667,
+        "compressionRatioInPercent": 15.077226972689314
+            },
+    {
+        "outTimestamp": 1415660729,
+        "compressionRatioInPercent": 14.65856533417881},
+    {
+        "outTimestamp": 1415660814,
+        "compressionRatioInPercent": 14.717103416736073
+            },
+    {
+        "outTimestamp": 1415660912,
+        "compressionRatioInPercent": 15.26250517332104},
+    {
+        "outTimestamp": 1415661030,
+        "compressionRatioInPercent": 14.854992120633822
+            },
+    {
+        "outTimestamp": 1415661759,
+        "compressionRatioInPercent": 14.762256710956201
+            },
+    {
+        "outTimestamp": 1415661908,
+        "compressionRatioInPercent": 15.228219241011887
+            },
+    {
+        "outTimestamp": 1415661990,
+        "compressionRatioInPercent": 14.212368965464469
+            },
+    {
+        "outTimestamp": 1415662067,
+        "compressionRatioInPercent": 14.51545651526905 },
+    {
+        "outTimestamp": 1415662438,
+        "compressionRatioInPercent": 14.963050044052618
+            },
+    {
+        "outTimestamp": 1415664524,
+        "compressionRatioInPercent": 14.68927190737795},
+    {
+        "outTimestamp": 1415664601,
+        "compressionRatioInPercent": 15.519780218357914
+            },
+    {
+        "outTimestamp": 1415664627,
+        "compressionRatioInPercent": 15.130221582310215
+            },
+    {
+        "outTimestamp": 1415664675,
+        "compressionRatioInPercent": 15.31554154007004},
+    {
+        "outTimestamp": 1415664700,
+        "compressionRatioInPercent": 14.158598299332477
+            },
+    {
+        "outTimestamp": 1415664795,
+        "compressionRatioInPercent": 14.810562564384817
+            },
+    {
+        "outTimestamp": 1415664928,
+        "compressionRatioInPercent": 14.579413888208414
+            },
+    {
+        "outTimestamp": 1415665308,
+        "compressionRatioInPercent": 14.882393204050654
+            },
+    {
+        "outTimestamp": 1415665359,
+        "compressionRatioInPercent": 15.331453164775098
+            },
+    {
+        "outTimestamp": 1415665413,
+        "compressionRatioInPercent": 14.826474610007226
+            },
+    {
+        "outTimestamp": 1415665501,
+        "compressionRatioInPercent": 15.295237663783736
+            },
+    {
+        "outTimestamp": 1415665636,
+        "compressionRatioInPercent": 14.737009951239045
+            },
+    {
+        "outTimestamp": 1415665808,
+        "compressionRatioInPercent": 14.623816378870089
+            },
+    {
+        "outTimestamp": 1415666026,
+        "compressionRatioInPercent": 14.919894148094949
+            },
+    {
+        "outTimestamp": 1415666188,
+        "compressionRatioInPercent": 14.864059074870214
+            },
+    {
+        "outTimestamp": 1415666980,
+        "compressionRatioInPercent": 14.78662055830278},
+    {
+        "outTimestamp": 1415667037,
+        "compressionRatioInPercent": 14.569409994069874
+            },
+    {
+        "outTimestamp": 1415667103,
+        "compressionRatioInPercent": 14.693215750798116
+            },
+    {
+        "outTimestamp": 1415668226,
+        "compressionRatioInPercent": 14.742357485720985
+            },
+    {
+        "outTimestamp": 1415668279,
+        "compressionRatioInPercent": 14.771445012891368
+            },
+    {
+        "outTimestamp": 1415668371,
+        "compressionRatioInPercent": 15.475327655845122
+            },
+    {
+        "outTimestamp": 1415668530,
+        "compressionRatioInPercent": 14.607354278983063
+            },
+    {
+        "outTimestamp": 1415668645,
+        "compressionRatioInPercent": 15.077226972689314
+            },
+    {
+        "outTimestamp": 1415668708,
+        "compressionRatioInPercent": 14.65856533417881},
+    {
+        "outTimestamp": 1415671807,
+        "compressionRatioInPercent": 14.775520637002938
+            },
+    {
+        "outTimestamp": 1415671965,
+        "compressionRatioInPercent": 14.424531409108951
+            },
+    {
+        "outTimestamp": 1415672131,
+        "compressionRatioInPercent": 14.629829611309066
+            },
+    {
+        "outTimestamp": 1415672892,
+        "compressionRatioInPercent": 14.801087347921365
+            },
+    {
+        "outTimestamp": 1415673017,
+        "compressionRatioInPercent": 14.354601597020766
+            },
+    {
+        "outTimestamp": 1415673119,
+        "compressionRatioInPercent": 14.302458593681484
+            },
+    {
+        "outTimestamp": 1415673232,
+        "compressionRatioInPercent": 15.70389861885363},
+    {
+        "outTimestamp": 1415673612,
+        "compressionRatioInPercent": 14.660980642321597
+            },
+    {
+        "outTimestamp": 1415673699,
+        "compressionRatioInPercent": 14.555608114636868
+            },
+    {
+        "outTimestamp": 1415673740,
+        "compressionRatioInPercent": 14.68927190737795},
+    {
+        "outTimestamp": 1415673817,
+        "compressionRatioInPercent": 15.519780218357914
+            },
+    {
+        "outTimestamp": 1415673842,
+        "compressionRatioInPercent": 15.130221582310215
+            },
+    {
+        "outTimestamp": 1415673887,
+        "compressionRatioInPercent": 15.31554154007004},
+    {
+        "outTimestamp": 1415673911,
+        "compressionRatioInPercent": 14.158598299332477
+            },
+    {
+        "outTimestamp": 1415674003,
+        "compressionRatioInPercent": 14.810562564384817
+            },
+    {
+        "outTimestamp": 1415674128,
+        "compressionRatioInPercent": 14.579413888208414
+            },
+    {
+        "outTimestamp": 1415674493,
+        "compressionRatioInPercent": 14.882393204050654
+            },
+    {
+        "outTimestamp": 1415674542,
+        "compressionRatioInPercent": 15.331453164775098
+            },
+    {
+        "outTimestamp": 1415674591,
+        "compressionRatioInPercent": 14.826474610007226
+            },
+    {
+        "outTimestamp": 1415674724,
+        "compressionRatioInPercent": 14.737009951239045
+            },
+    {
+        "outTimestamp": 1415674899,
+        "compressionRatioInPercent": 14.623816378870089
+            },
+    {
+        "outTimestamp": 1415675120,
+        "compressionRatioInPercent": 14.919894148094949
+            },
+    {
+        "outTimestamp": 1415675284,
+        "compressionRatioInPercent": 14.864059074870214
+            },
+    {
+        "outTimestamp": 1415676072,
+        "compressionRatioInPercent": 14.78662055830278 },
+    {
+        "outTimestamp": 1415678973,
+        "compressionRatioInPercent": 14.668911517853042
+            },
+    {
+        "outTimestamp": 1415679096,
+        "compressionRatioInPercent": 14.775520637002938
+            },
+    {
+        "outTimestamp": 1415679255,
+        "compressionRatioInPercent": 14.424531409108951
+            },
+    {
+        "outTimestamp": 1415679420,
+        "compressionRatioInPercent": 14.629829611309066
+            },
+    {
+        "outTimestamp": 1415680155,
+        "compressionRatioInPercent": 14.801087347921365
+            },
+    {
+        "outTimestamp": 1415680274,
+        "compressionRatioInPercent": 14.354601597020766
+            },
+    {
+        "outTimestamp": 1415680369,
+        "compressionRatioInPercent": 14.302458593681484
+            },
+    {
+        "outTimestamp": 1415680476,
+        "compressionRatioInPercent": 15.70389861885363 },
+    {
+        "outTimestamp": 1415680844,
+        "compressionRatioInPercent": 14.660980642321597
+            },
+    {
+        "outTimestamp": 1415680884,
+        "compressionRatioInPercent": 14.68927190737795 },
+    {
+        "outTimestamp": 1415680960,
+        "compressionRatioInPercent": 15.519780218357914
+            },
+    {
+        "outTimestamp": 1415680985,
+        "compressionRatioInPercent": 15.130221582310215
+            },
+    {
+        "outTimestamp": 1415681030,
+        "compressionRatioInPercent": 15.31554154007004},
+    {
+        "outTimestamp": 1415681055,
+        "compressionRatioInPercent": 14.158598299332477
+            },
+    {
+        "outTimestamp": 1415681146,
+        "compressionRatioInPercent": 14.810562564384817
+            },
+    {
+        "outTimestamp": 1415681275,
+        "compressionRatioInPercent": 14.579413888208414
+            },
+    {
+        "outTimestamp": 1415681643,
+        "compressionRatioInPercent": 14.882393204050654
+            },
+    {
+        "outTimestamp": 1415681693,
+        "compressionRatioInPercent": 15.331453164775098
+            },
+    {
+        "outTimestamp": 1415681744,
+        "compressionRatioInPercent": 14.826474610007226
+            },
+    {
+        "outTimestamp": 1415681878,
+        "compressionRatioInPercent": 14.737009951239045
+            },
+    {
+        "outTimestamp": 1415682050,
+        "compressionRatioInPercent": 14.623816378870089
+            },
+    {
+        "outTimestamp": 1415682272,
+        "compressionRatioInPercent": 14.919894148094949
+            },
+    {
+        "outTimestamp": 1415682435,
+        "compressionRatioInPercent": 14.864059074870214
+            },
+    {
+        "outTimestamp": 1415683231,
+        "compressionRatioInPercent": 14.78662055830278},
+    {
+        "outTimestamp": 1415686170,
+        "compressionRatioInPercent": 14.668911517853042
+            },
+    {
+        "outTimestamp": 1415686290,
+        "compressionRatioInPercent": 14.775520637002938
+            },
+    {
+        "outTimestamp": 1415686443,
+        "compressionRatioInPercent": 14.424531409108951
+            },
+    {
+        "outTimestamp": 1415686601,
+        "compressionRatioInPercent": 14.629829611309066
+            },
+    {
+        "outTimestamp": 1415687379,
+        "compressionRatioInPercent": 14.801087347921365
+            },
+    {
+        "outTimestamp": 1415687501,
+        "compressionRatioInPercent": 14.354601597020766
+            },
+    {
+        "outTimestamp": 1415687601,
+        "compressionRatioInPercent": 14.302458593681484
+            },
+    {
+        "outTimestamp": 1415687710,
+        "compressionRatioInPercent": 15.70389861885363 },
+    {
+        "outTimestamp": 1415688073,
+        "compressionRatioInPercent": 14.660980642321597
+            },
+    {
+        "outTimestamp": 1415688113,
+        "compressionRatioInPercent": 14.68927190737795},
+    {
+        "outTimestamp": 1415688186,
+        "compressionRatioInPercent": 15.519780218357914
+            },
+    {
+        "outTimestamp": 1415688211,
+        "compressionRatioInPercent": 15.130221582310215
+            },
+    {
+        "outTimestamp": 1415688255,
+        "compressionRatioInPercent": 15.31554154007004},
+    {
+        "outTimestamp": 1415688281,
+        "compressionRatioInPercent": 14.158598299332477
+            },
+    {
+        "outTimestamp": 1415688370,
+        "compressionRatioInPercent": 14.810562564384817
+            },
+    {
+        "outTimestamp": 1415688496,
+        "compressionRatioInPercent": 14.579413888208414
+            },
+    {
+        "outTimestamp": 1415688861,
+        "compressionRatioInPercent": 14.882393204050654
+            },
+    {
+        "outTimestamp": 1415688910,
+        "compressionRatioInPercent": 15.331453164775098
+            },
+    {
+        "outTimestamp": 1415688960,
+        "compressionRatioInPercent": 14.826474610007226
+            },
+    {
+        "outTimestamp": 1415689095,
+        "compressionRatioInPercent": 14.737009951239045
+            },
+    {
+        "outTimestamp": 1415689268,
+        "compressionRatioInPercent": 14.623816378870089
+            },
+    {
+        "outTimestamp": 1415689491,
+        "compressionRatioInPercent": 14.919894148094949
+            },
+    {
+        "outTimestamp": 1415689649,
+        "compressionRatioInPercent": 14.864059074870214
+            },
+    {
+        "outTimestamp": 1415690448,
+        "compressionRatioInPercent": 14.78662055830278},
+    {
+        "outTimestamp": 1415693370,
+        "compressionRatioInPercent": 15.095517423894378
+            },
+    {
+        "outTimestamp": 1415693492,
+        "compressionRatioInPercent": 14.775520637002938
+            },
+    {
+        "outTimestamp": 1415693643,
+        "compressionRatioInPercent": 14.424531409108951
+            },
+    {
+        "outTimestamp": 1415693800,
+        "compressionRatioInPercent": 14.629829611309066
+            },
+    {
+        "outTimestamp": 1415694532,
+        "compressionRatioInPercent": 14.801087347921365
+            },
+    {
+        "outTimestamp": 1415694652,
+        "compressionRatioInPercent": 14.354601597020766
+            },
+    {
+        "outTimestamp": 1415694747,
+        "compressionRatioInPercent": 14.302458593681484
+            },
+    {
+        "outTimestamp": 1415694855,
+        "compressionRatioInPercent": 15.70389861885363},
+    {
+        "outTimestamp": 1415695218,
+        "compressionRatioInPercent": 14.660980642321597
+            },
+    {
+        "outTimestamp": 1415695257,
+        "compressionRatioInPercent": 14.68927190737795},
+    {
+        "outTimestamp": 1415695332,
+        "compressionRatioInPercent": 15.519780218357914
+            },
+    {
+        "outTimestamp": 1415695357,
+        "compressionRatioInPercent": 15.130221582310215
+            },
+    {
+        "outTimestamp": 1415695402,
+        "compressionRatioInPercent": 15.31554154007004},
+    {
+        "outTimestamp": 1415695427,
+        "compressionRatioInPercent": 14.158598299332477
+            },
+    {
+        "outTimestamp": 1415695519,
+        "compressionRatioInPercent": 14.810562564384817
+            },
+    {
+        "outTimestamp": 1415695646,
+        "compressionRatioInPercent": 14.579413888208414
+            },
+    {
+        "outTimestamp": 1415696012,
+        "compressionRatioInPercent": 14.882393204050654
+            },
+    {
+        "outTimestamp": 1415696061,
+        "compressionRatioInPercent": 15.331453164775098
+            },
+    {
+        "outTimestamp": 1415696112,
+        "compressionRatioInPercent": 14.826474610007226
+            },
+    {
+        "outTimestamp": 1415696244,
+        "compressionRatioInPercent": 14.737009951239045
+            },
+    {
+        "outTimestamp": 1415696417,
+        "compressionRatioInPercent": 14.623816378870089
+            },
+    {
+        "outTimestamp": 1415696637,
+        "compressionRatioInPercent": 14.919894148094949
+            },
+    {
+        "outTimestamp": 1415696805,
+        "compressionRatioInPercent": 14.864059074870214
+            },
+    {
+        "outTimestamp": 1415697623,
+        "compressionRatioInPercent": 14.78662055830278},
+    {
+        "outTimestamp": 1415700576,
+        "compressionRatioInPercent": 15.043966689384018
+            },
+    {
+        "outTimestamp": 1415700697,
+        "compressionRatioInPercent": 14.775520637002938
+            },
+    {
+        "outTimestamp": 1415700850,
+        "compressionRatioInPercent": 14.424531409108951
+            },
+    {
+        "outTimestamp": 1415701011,
+        "compressionRatioInPercent": 14.629829611309066
+            },
+    {
+        "outTimestamp": 1415701745,
+        "compressionRatioInPercent": 14.801087347921365
+            },
+    {
+        "outTimestamp": 1415701863,
+        "compressionRatioInPercent": 14.354601597020766
+            },
+    {
+        "outTimestamp": 1415701958,
+        "compressionRatioInPercent": 14.302458593681484
+            },
+    {
+        "outTimestamp": 1415702065,
+        "compressionRatioInPercent": 15.70389861885363},
+    {
+        "outTimestamp": 1415702423,
+        "compressionRatioInPercent": 14.660980642321597
+            },
+    {
+        "outTimestamp": 1415702463,
+        "compressionRatioInPercent": 14.68927190737795},
+    {
+        "outTimestamp": 1415702538,
+        "compressionRatioInPercent": 15.519780218357914
+            },
+    {
+        "outTimestamp": 1415702562,
+        "compressionRatioInPercent": 15.130221582310215
+            },
+    {
+        "outTimestamp": 1415702602,
+        "compressionRatioInPercent": 14.441855484533233
+            },
+    {
+        "outTimestamp": 1415702647,
+        "compressionRatioInPercent": 15.31554154007004},
+    {
+        "outTimestamp": 1415702673,
+        "compressionRatioInPercent": 14.158598299332477
+            },
+    {
+        "outTimestamp": 1415702764,
+        "compressionRatioInPercent": 14.810562564384817
+            },
+    {
+        "outTimestamp": 1415702893,
+        "compressionRatioInPercent": 14.579413888208414
+            },
+    {
+        "outTimestamp": 1415703260,
+        "compressionRatioInPercent": 14.882393204050654
+            },
+    {
+        "outTimestamp": 1415703309,
+        "compressionRatioInPercent": 15.331453164775098
+            },
+    {
+        "outTimestamp": 1415703359,
+        "compressionRatioInPercent": 14.826474610007226
+            },
+    {
+        "outTimestamp": 1415703494,
+        "compressionRatioInPercent": 14.737009951239045
+            },
+    {
+        "outTimestamp": 1415703666,
+        "compressionRatioInPercent": 14.623816378870089
+            },
+    {
+        "outTimestamp": 1415703887,
+        "compressionRatioInPercent": 14.919894148094949
+            },
+    {
+        "outTimestamp": 1415704046,
+        "compressionRatioInPercent": 14.864059074870214
+            },
+    {
+        "outTimestamp": 1415704177,
+        "compressionRatioInPercent": 15.043966689384018
+            },
+    {
+        "outTimestamp": 1415704299,
+        "compressionRatioInPercent": 14.775520637002938
+            },
+    {
+        "outTimestamp": 1415704452,
+        "compressionRatioInPercent": 14.424531409108951
+            },
+    {
+        "outTimestamp": 1415704611,
+        "compressionRatioInPercent": 14.629829611309066
+            },
+    {
+        "outTimestamp": 1415705341,
+        "compressionRatioInPercent": 14.801087347921365
+            },
+    {
+        "outTimestamp": 1415705461,
+        "compressionRatioInPercent": 14.354601597020766
+            },
+    {
+        "outTimestamp": 1415705557,
+        "compressionRatioInPercent": 14.302458593681484
+            },
+    {
+        "outTimestamp": 1415705664,
+        "compressionRatioInPercent": 15.70389861885363},
+    {
+        "outTimestamp": 1415706024,
+        "compressionRatioInPercent": 14.660980642321597
+            },
+    {
+        "outTimestamp": 1415706063,
+        "compressionRatioInPercent": 14.68927190737795 },
+    {
+        "outTimestamp": 1415706138,
+        "compressionRatioInPercent": 15.519780218357914
+            },
+    {
+        "outTimestamp": 1415706163,
+        "compressionRatioInPercent": 15.130221582310215
+            },
+    {
+        "outTimestamp": 1415706200,
+        "compressionRatioInPercent": 14.441855484533233
+            },
+    {
+        "outTimestamp": 1415706245,
+        "compressionRatioInPercent": 15.31554154007004},
+    {
+        "outTimestamp": 1415706270,
+        "compressionRatioInPercent": 14.158598299332477
+            },
+    {
+        "outTimestamp": 1415706360,
+        "compressionRatioInPercent": 14.810562564384817
+            },
+    {
+        "outTimestamp": 1415706488,
+        "compressionRatioInPercent": 14.579413888208414
+            },
+    {
+        "outTimestamp": 1415706853,
+        "compressionRatioInPercent": 14.882393204050654
+            },
+    {
+        "outTimestamp": 1415706902,
+        "compressionRatioInPercent": 15.331453164775098
+            },
+    {
+        "outTimestamp": 1415706952,
+        "compressionRatioInPercent": 14.826474610007226
+            },
+    {
+        "outTimestamp": 1415707084,
+        "compressionRatioInPercent": 14.737009951239045
+            },
+    {
+        "outTimestamp": 1415707258,
+        "compressionRatioInPercent": 14.623816378870089
+            },
+    {
+        "outTimestamp": 1415707478,
+        "compressionRatioInPercent": 14.919894148094949
+            },
+    {
+        "outTimestamp": 1415707639,
+        "compressionRatioInPercent": 14.864059074870214
+            },
+    {
+        "outTimestamp": 1415707776,
+        "compressionRatioInPercent": 15.039480008778572
+            },
+    {
+        "outTimestamp": 1415707896,
+        "compressionRatioInPercent": 14.775520637002938
+            },
+    {
+        "outTimestamp": 1415708049,
+        "compressionRatioInPercent": 14.424531409108951
+            },
+    {
+        "outTimestamp": 1415708210,
+        "compressionRatioInPercent": 14.629829611309066
+            },
+    {
+        "outTimestamp": 1415708947,
+        "compressionRatioInPercent": 14.801087347921365
+            },
+    {
+        "outTimestamp": 1415709065,
+        "compressionRatioInPercent": 14.354601597020766
+            },
+    {
+        "outTimestamp": 1415709161,
+        "compressionRatioInPercent": 14.302458593681484
+            },
+    {
+        "outTimestamp": 1415709269,
+        "compressionRatioInPercent": 15.70389861885363 },
+    {
+        "outTimestamp": 1415709628,
+        "compressionRatioInPercent": 14.660980642321597
+            },
+    {
+        "outTimestamp": 1415709672,
+        "compressionRatioInPercent": 14.68927190737795},
+    {
+        "outTimestamp": 1415709749,
+        "compressionRatioInPercent": 15.519780218357914
+            },
+    {
+        "outTimestamp": 1415709776,
+        "compressionRatioInPercent": 15.130221582310215
+            },
+    {
+        "outTimestamp": 1415709815,
+        "compressionRatioInPercent": 14.441855484533233
+            },
+    {
+        "outTimestamp": 1415709860,
+        "compressionRatioInPercent": 15.31554154007004},
+    {
+        "outTimestamp": 1415709886,
+        "compressionRatioInPercent": 14.158598299332477
+            },
+    {
+        "outTimestamp": 1415709976,
+        "compressionRatioInPercent": 14.810562564384817
+            },
+    {
+        "outTimestamp": 1415710105,
+        "compressionRatioInPercent": 14.579413888208414
+            },
+    {
+        "outTimestamp": 1415710470,
+        "compressionRatioInPercent": 14.882393204050654
+            },
+    {
+        "outTimestamp": 1415710520,
+        "compressionRatioInPercent": 15.331453164775098
+            },
+    {
+        "outTimestamp": 1415710570,
+        "compressionRatioInPercent": 14.826474610007226
+            },
+    {
+        "outTimestamp": 1415710705,
+        "compressionRatioInPercent": 14.737009951239045
+            },
+    {
+        "outTimestamp": 1415710879,
+        "compressionRatioInPercent": 14.623816378870089
+            },
+    {
+        "outTimestamp": 1415711103,
+        "compressionRatioInPercent": 14.919894148094949
+            },
+    {
+        "outTimestamp": 1415711264,
+        "compressionRatioInPercent": 14.864059074870214
+            },
+    {
+        "outTimestamp": 1415711379,
+        "compressionRatioInPercent": 15.039480008778572
+            },
+    {
+        "outTimestamp": 1415711498,
+        "compressionRatioInPercent": 14.775520637002938
+            },
+    {
+        "outTimestamp": 1415711576,
+        "compressionRatioInPercent": 14.611082052359286
+            },
+    {
+        "outTimestamp": 1415711736,
+        "compressionRatioInPercent": 14.629829611309066
+            },
+    {
+        "outTimestamp": 1415712474,
+        "compressionRatioInPercent": 14.801087347921365
+            },
+    {
+        "outTimestamp": 1415712590,
+        "compressionRatioInPercent": 14.354601597020766
+            },
+    {
+        "outTimestamp": 1415712686,
+        "compressionRatioInPercent": 14.302458593681484
+            },
+    {
+        "outTimestamp": 1415712795,
+        "compressionRatioInPercent": 15.70389861885363},
+    {
+        "outTimestamp": 1415713162,
+        "compressionRatioInPercent": 14.660980642321597
+            },
+    {
+        "outTimestamp": 1415713201,
+        "compressionRatioInPercent": 14.68927190737795},
+    {
+        "outTimestamp": 1415713279,
+        "compressionRatioInPercent": 15.519780218357914
+            },
+    {
+        "outTimestamp": 1415713303,
+        "compressionRatioInPercent": 15.130221582310215
+            },
+    {
+        "outTimestamp": 1415713341,
+        "compressionRatioInPercent": 14.441855484533233
+            },
+    {
+        "outTimestamp": 1415713387,
+        "compressionRatioInPercent": 15.31554154007004},
+    {
+        "outTimestamp": 1415713412,
+        "compressionRatioInPercent": 14.158598299332477
+            },
+    {
+        "outTimestamp": 1415713504,
+        "compressionRatioInPercent": 14.810562564384817
+            },
+    {
+        "outTimestamp": 1415713633,
+        "compressionRatioInPercent": 14.579413888208414
+            },
+    {
+        "outTimestamp": 1415714007,
+        "compressionRatioInPercent": 14.882393204050654
+            },
+    {
+        "outTimestamp": 1415714057,
+        "compressionRatioInPercent": 15.331453164775098
+            },
+    {
+        "outTimestamp": 1415714108,
+        "compressionRatioInPercent": 14.826474610007226
+            },
+    {
+        "outTimestamp": 1415714241,
+        "compressionRatioInPercent": 14.737009951239045
+            },
+    {
+        "outTimestamp": 1415714413,
+        "compressionRatioInPercent": 14.623816378870089
+            },
+    {
+        "outTimestamp": 1415714638,
+        "compressionRatioInPercent": 14.919894148094949
+            },
+    {
+        "outTimestamp": 1415714798,
+        "compressionRatioInPercent": 14.864059074870214
+            },
+    {
+        "outTimestamp": 1415714979,
+        "compressionRatioInPercent": 14.862079934726257
+            },
+    {
+        "outTimestamp": 1415715101,
+        "compressionRatioInPercent": 14.775520637002938
+            },
+    {
+        "outTimestamp": 1415715179,
+        "compressionRatioInPercent": 14.611082052359286
+            },
+    {
+        "outTimestamp": 1415715339,
+        "compressionRatioInPercent": 14.629829611309066
+            },
+    {
+        "outTimestamp": 1415716077,
+        "compressionRatioInPercent": 14.801087347921365
+            },
+    {
+        "outTimestamp": 1415716197,
+        "compressionRatioInPercent": 14.354601597020766
+            },
+    {
+        "outTimestamp": 1415716294,
+        "compressionRatioInPercent": 14.302458593681484
+            },
+    {
+        "outTimestamp": 1415716400,
+        "compressionRatioInPercent": 15.70389861885363},
+    {
+        "outTimestamp": 1415716762,
+        "compressionRatioInPercent": 14.660980642321597
+            },
+    {
+        "outTimestamp": 1415716801,
+        "compressionRatioInPercent": 14.68927190737795},
+    {
+        "outTimestamp": 1415716876,
+        "compressionRatioInPercent": 15.519780218357914
+            },
+    {
+        "outTimestamp": 1415717074,
+        "compressionRatioInPercent": 16.499492206377973
+            },
+    {
+        "outTimestamp": 1415717100,
+        "compressionRatioInPercent": 15.130221582310215
+            },
+    {
+        "outTimestamp": 1415717138,
+        "compressionRatioInPercent": 14.441855484533233
+            },
+    {
+        "outTimestamp": 1415717183,
+        "compressionRatioInPercent": 15.31554154007004},
+    {
+        "outTimestamp": 1415717325,
+        "compressionRatioInPercent": 14.158598299332477
+            },
+    {
+        "outTimestamp": 1415717451,
+        "compressionRatioInPercent": 14.810562564384817
+            },
+    {
+        "outTimestamp": 1415717584,
+        "compressionRatioInPercent": 14.579413888208414
+            },
+    {
+        "outTimestamp": 1415717973,
+        "compressionRatioInPercent": 14.882393204050654
+            },
+    {
+        "outTimestamp": 1415718139,
+        "compressionRatioInPercent": 15.331453164775098
+            },
+    {
+        "outTimestamp": 1415718345,
+        "compressionRatioInPercent": 14.826474610007226
+            },
+    {
+        "outTimestamp": 1415719009,
+        "compressionRatioInPercent": 14.737009951239045
+            },
+    {
+        "outTimestamp": 1415719602,
+        "compressionRatioInPercent": 14.623816378870089
+            },
+    {
+        "outTimestamp": null,
+        "compressionRatioInPercent": 0.0}
+]

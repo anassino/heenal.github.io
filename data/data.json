@@ -1,0 +1,3026 @@
+[
+    {
+        "outTimestamp": 1415635862, 
+        "compressionRatioInPercent": 13.974863249659291, 
+        "inTimestamp": 1415635709, 
+        "outSize": 4895993, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-08-03_kune20141110_16a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 35034282, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-08-03_kune20141110_16a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415635965, 
+        "compressionRatioInPercent": 14.771445012891368, 
+        "inTimestamp": 1415635863, 
+        "outSize": 4428729, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-11-02_je20141110_loechel14a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 29981691, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-11-02_je20141110_loechel14a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415636146, 
+        "compressionRatioInPercent": 15.475327655845122, 
+        "inTimestamp": 1415635967, 
+        "outSize": 5342931, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-12-45_je20141110_bvs15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 34525479, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-12-45_je20141110_bvs15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415636244, 
+        "compressionRatioInPercent": 14.30788993821171, 
+        "inTimestamp": 1415636147, 
+        "outSize": 2790521, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-15-46_je20141110_apec13a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 19503372, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-15-46_je20141110_apec13a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415636438, 
+        "compressionRatioInPercent": 14.607354278983063, 
+        "inTimestamp": 1415636247, 
+        "outSize": 9779787, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-17-24_tt20141107_box_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 66951118, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-17-24_tt20141107_box_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415636556, 
+        "compressionRatioInPercent": 15.077226972689314, 
+        "inTimestamp": 1415636439, 
+        "outSize": 6908288, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-20-38_tt20141107_telefonieren_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 45819354, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-20-38_tt20141107_telefonieren_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415636619, 
+        "compressionRatioInPercent": 14.65856533417881, 
+        "inTimestamp": 1415636557, 
+        "outSize": 3810576, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-22-36_tt20141107_frage_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 25995559, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-22-36_tt20141107_frage_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415636707, 
+        "compressionRatioInPercent": 14.717103416736073, 
+        "inTimestamp": 1415636624, 
+        "outSize": 6216025, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-23-39_tt20141107_studio_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 42236742, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-23-39_tt20141107_studio_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415636810, 
+        "compressionRatioInPercent": 15.26250517332104, 
+        "inTimestamp": 1415636712, 
+        "outSize": 6206185, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-25-07_tt20141107_wissenschaft_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 40662951, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-25-07_tt20141107_wissenschaft_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415636949, 
+        "compressionRatioInPercent": 14.854992120633822, 
+        "inTimestamp": 1415636833, 
+        "outSize": 6936218, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-26-50_tt20141107_ebola_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 46692842, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-26-50_tt20141107_ebola_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415637814, 
+        "compressionRatioInPercent": 14.762256710956201, 
+        "inTimestamp": 1415637082, 
+        "outSize": 46182672, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-29-09_tt20141107_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 312842900, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-29-09_tt20141107_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415637969, 
+        "compressionRatioInPercent": 15.228219241011887, 
+        "inTimestamp": 1415637817, 
+        "outSize": 9052333, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-43-34_gt20140407_stahlhelm_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 59444462, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-43-34_gt20140407_stahlhelm_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415638048, 
+        "compressionRatioInPercent": 14.212368965464469, 
+        "inTimestamp": 1415637970, 
+        "outSize": 4374046, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-46-09_gt20140407_gruender_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 30776333, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-46-09_gt20140407_gruender_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415638125, 
+        "compressionRatioInPercent": 14.51545651526905, 
+        "inTimestamp": 1415638050, 
+        "outSize": 4648867, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-47-28_gt20140407_dialekt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 32027012, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-47-28_gt20140407_dialekt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415638486, 
+        "compressionRatioInPercent": 14.963050044052618, 
+        "inTimestamp": 1415638130, 
+        "outSize": 21386719, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-48-45_gt20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 142930211, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-48-45_gt20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415638566, 
+        "compressionRatioInPercent": 14.640828229421208, 
+        "inTimestamp": 1415638487, 
+        "outSize": 4320945, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-54-46_je20141110_fest22g_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 29512982, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-54-46_je20141110_fest22g_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415638610, 
+        "compressionRatioInPercent": 15.014794593264657, 
+        "inTimestamp": 1415638567, 
+        "outSize": 2557000, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-56-06_je20141109_katalo18g_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17029870, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-56-06_je20141109_katalo18g_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415638652, 
+        "compressionRatioInPercent": 14.010039457796182, 
+        "inTimestamp": 1415638610, 
+        "outSize": 2491661, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-56-50_je20141109_mexikon12g_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17784825, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-56-50_je20141109_mexikon12g_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415638717, 
+        "compressionRatioInPercent": 14.255716711677712, 
+        "inTimestamp": 1415638653, 
+        "outSize": 3582955, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-57-32_je20141109_merkel14g_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 25133461, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-57-32_je20141109_merkel14g_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415639000, 
+        "compressionRatioInPercent": 14.7670587333594, 
+        "inTimestamp": 1415638721, 
+        "outSize": 21409434, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_16-58-37_ive20141109_genscher_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 144981031, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_16-58-37_ive20141109_genscher_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415639754, 
+        "compressionRatioInPercent": 14.920884214523356, 
+        "inTimestamp": 1415639012, 
+        "outSize": 46590774, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_17-03-20_inf20141109_deutschertaktgefuehl_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 312252098, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_17-03-20_inf20141109_deutschertaktgefuehl_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415639895, 
+        "compressionRatioInPercent": 15.011934336589478, 
+        "inTimestamp": 1415639764, 
+        "outSize": 7949346, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_17-15-54_eme20141108_kenfollet_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 52953509, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_17-15-54_eme20141108_kenfollet_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415640070, 
+        "compressionRatioInPercent": 14.783887108770653, 
+        "inTimestamp": 1415639912, 
+        "outSize": 9141086, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_17-18-15_eme20141107_wendebilder_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 61831411, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_17-18-15_eme20141107_wendebilder_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415640310, 
+        "compressionRatioInPercent": 14.583736764197178, 
+        "inTimestamp": 1415640083, 
+        "outSize": 12875923, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_17-21-10_eme20141108_wendewege_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 88289601, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_17-21-10_eme20141108_wendewege_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415643066, 
+        "compressionRatioInPercent": 14.223246522000379, 
+        "inTimestamp": 1415642981, 
+        "outSize": 5167378, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_18-08-02_kune20141110_18a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 36330510, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_18-08-02_kune20141110_18a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415643116, 
+        "compressionRatioInPercent": 15.456194405243012, 
+        "inTimestamp": 1415643073, 
+        "outSize": 2775705, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_18-11-06_je20141110_trauer16a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17958528, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_18-11-06_je20141110_trauer16a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415644288, 
+        "compressionRatioInPercent": 14.742357485720985, 
+        "inTimestamp": 1415643175, 
+        "outSize": 63660279, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_18-11-56_talkg20131101_volkhardt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 431818853, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_18-11-56_talkg20131101_volkhardt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415644342, 
+        "compressionRatioInPercent": 14.771445012891368, 
+        "inTimestamp": 1415644290, 
+        "outSize": 4428729, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_18-31-28_je20141110_loechel14a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 29981691, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_18-31-28_je20141110_loechel14a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415644434, 
+        "compressionRatioInPercent": 15.475327655845122, 
+        "inTimestamp": 1415644345, 
+        "outSize": 5342931, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_18-32-22_je20141110_bvs15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 34525479, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_18-32-22_je20141110_bvs15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415644484, 
+        "compressionRatioInPercent": 14.30788993821171, 
+        "inTimestamp": 1415644435, 
+        "outSize": 2790521, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_18-33-54_je20141110_apec13a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 19503372, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_18-33-54_je20141110_apec13a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415644646, 
+        "compressionRatioInPercent": 14.607354278983063, 
+        "inTimestamp": 1415644486, 
+        "outSize": 9779787, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_18-34-44_tt20141107_box_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 66951118, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_18-34-44_tt20141107_box_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415644763, 
+        "compressionRatioInPercent": 15.077226972689314, 
+        "inTimestamp": 1415644647, 
+        "outSize": 6908288, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_18-37-26_tt20141107_telefonieren_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 45819354, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_18-37-26_tt20141107_telefonieren_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415644827, 
+        "compressionRatioInPercent": 14.65856533417881, 
+        "inTimestamp": 1415644764, 
+        "outSize": 3810576, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_18-39-23_tt20141107_frage_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 25995559, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_18-39-23_tt20141107_frage_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415644912, 
+        "compressionRatioInPercent": 14.717103416736073, 
+        "inTimestamp": 1415644829, 
+        "outSize": 6216025, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_18-40-27_tt20141107_studio_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 42236742, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_18-40-27_tt20141107_studio_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415645009, 
+        "compressionRatioInPercent": 15.26250517332104, 
+        "inTimestamp": 1415644913, 
+        "outSize": 6206185, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_18-41-52_tt20141107_wissenschaft_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 40662951, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_18-41-52_tt20141107_wissenschaft_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415645127, 
+        "compressionRatioInPercent": 14.854992120633822, 
+        "inTimestamp": 1415645011, 
+        "outSize": 6936218, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_18-43-29_tt20141107_ebola_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 46692842, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_18-43-29_tt20141107_ebola_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415645854, 
+        "compressionRatioInPercent": 14.762256710956201, 
+        "inTimestamp": 1415645134, 
+        "outSize": 46182672, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_18-45-27_tt20141107_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 312842900, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_18-45-27_tt20141107_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415646007, 
+        "compressionRatioInPercent": 15.228219241011887, 
+        "inTimestamp": 1415645856, 
+        "outSize": 9052333, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_18-57-34_gt20140407_stahlhelm_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 59444462, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_18-57-34_gt20140407_stahlhelm_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415646084, 
+        "compressionRatioInPercent": 14.212368965464469, 
+        "inTimestamp": 1415646008, 
+        "outSize": 4374046, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_19-00-07_gt20140407_gruender_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 30776333, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_19-00-07_gt20140407_gruender_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415646160, 
+        "compressionRatioInPercent": 14.51545651526905, 
+        "inTimestamp": 1415646085, 
+        "outSize": 4648867, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_19-01-24_gt20140407_dialekt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 32027012, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_19-01-24_gt20140407_dialekt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415646516, 
+        "compressionRatioInPercent": 14.963050044052618, 
+        "inTimestamp": 1415646165, 
+        "outSize": 21386719, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_19-02-40_gt20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 142930211, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_19-02-40_gt20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415646592, 
+        "compressionRatioInPercent": 14.640828229421208, 
+        "inTimestamp": 1415646517, 
+        "outSize": 4320945, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_19-08-36_je20141110_fest22g_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 29512982, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_19-08-36_je20141110_fest22g_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415646637, 
+        "compressionRatioInPercent": 15.014794593264657, 
+        "inTimestamp": 1415646593, 
+        "outSize": 2557000, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_19-09-52_je20141109_katalo18g_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17029870, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_19-09-52_je20141109_katalo18g_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415646680, 
+        "compressionRatioInPercent": 14.010039457796182, 
+        "inTimestamp": 1415646638, 
+        "outSize": 2491661, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_19-10-37_je20141109_mexikon12g_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17784825, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_19-10-37_je20141109_mexikon12g_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415646743, 
+        "compressionRatioInPercent": 14.255716711677712, 
+        "inTimestamp": 1415646681, 
+        "outSize": 3582955, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_19-11-20_je20141109_merkel14g_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 25133461, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_19-11-20_je20141109_merkel14g_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415647029, 
+        "compressionRatioInPercent": 14.7670587333594, 
+        "inTimestamp": 1415646748, 
+        "outSize": 21409434, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_19-12-23_ive20141109_genscher_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 144981031, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_19-12-23_ive20141109_genscher_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415647783, 
+        "compressionRatioInPercent": 14.920884214523356, 
+        "inTimestamp": 1415647041, 
+        "outSize": 46590774, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_19-17-09_inf20141109_deutschertaktgefuehl_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 312252098, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_19-17-09_inf20141109_deutschertaktgefuehl_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415647922, 
+        "compressionRatioInPercent": 15.011934336589478, 
+        "inTimestamp": 1415647790, 
+        "outSize": 7949346, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_19-29-43_eme20141108_kenfollet_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 52953509, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_19-29-43_eme20141108_kenfollet_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415650184, 
+        "compressionRatioInPercent": 14.569409994069874, 
+        "inTimestamp": 1415650132, 
+        "outSize": 3145746, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-08-02_je20141110_rubel18a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 21591444, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-08-02_je20141110_rubel18a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415650264, 
+        "compressionRatioInPercent": 14.693215750798116, 
+        "inTimestamp": 1415650202, 
+        "outSize": 3559552, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-09-44_je20141110_catalan20a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 24225820, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-09-44_je20141110_catalan20a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415650374, 
+        "compressionRatioInPercent": 14.223246522000379, 
+        "inTimestamp": 1415650289, 
+        "outSize": 5167378, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-11-04_kune20141110_18a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 36330510, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-11-04_kune20141110_18a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415650426, 
+        "compressionRatioInPercent": 15.456194405243012, 
+        "inTimestamp": 1415650382, 
+        "outSize": 2775705, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-12-54_je20141110_trauer16a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17958528, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-12-54_je20141110_trauer16a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415651801, 
+        "compressionRatioInPercent": 14.742357485720985, 
+        "inTimestamp": 1415650686, 
+        "outSize": 63660279, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-13-46_talkg20131101_volkhardt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 431818853, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-13-46_talkg20131101_volkhardt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415651865, 
+        "compressionRatioInPercent": 14.771445012891368, 
+        "inTimestamp": 1415651814, 
+        "outSize": 4428729, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-36-41_je20141110_loechel14a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 29981691, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-36-41_je20141110_loechel14a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415651967, 
+        "compressionRatioInPercent": 15.475327655845122, 
+        "inTimestamp": 1415651878, 
+        "outSize": 5342931, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-37-45_je20141110_bvs15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 34525479, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-37-45_je20141110_bvs15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415652026, 
+        "compressionRatioInPercent": 14.30788993821171, 
+        "inTimestamp": 1415651976, 
+        "outSize": 2790521, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-39-27_je20141110_apec13a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 19503372, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-39-27_je20141110_apec13a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415652234, 
+        "compressionRatioInPercent": 14.607354278983063, 
+        "inTimestamp": 1415652073, 
+        "outSize": 9779787, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-40-26_tt20141107_box_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 66951118, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-40-26_tt20141107_box_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415652386, 
+        "compressionRatioInPercent": 15.077226972689314, 
+        "inTimestamp": 1415652272, 
+        "outSize": 6908288, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-43-54_tt20141107_telefonieren_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 45819354, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-43-54_tt20141107_telefonieren_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415652458, 
+        "compressionRatioInPercent": 14.65856533417881, 
+        "inTimestamp": 1415652395, 
+        "outSize": 3810576, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-46-26_tt20141107_frage_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 25995559, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-46-26_tt20141107_frage_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415652541, 
+        "compressionRatioInPercent": 14.717103416736073, 
+        "inTimestamp": 1415652459, 
+        "outSize": 6216025, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-47-38_tt20141107_studio_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 42236742, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-47-38_tt20141107_studio_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415652641, 
+        "compressionRatioInPercent": 15.26250517332104, 
+        "inTimestamp": 1415652542, 
+        "outSize": 6206185, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-49-01_tt20141107_wissenschaft_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 40662951, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-49-01_tt20141107_wissenschaft_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415652758, 
+        "compressionRatioInPercent": 14.854992120633822, 
+        "inTimestamp": 1415652643, 
+        "outSize": 6936218, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-50-41_tt20141107_ebola_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 46692842, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-50-41_tt20141107_ebola_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415653501, 
+        "compressionRatioInPercent": 14.762256710956201, 
+        "inTimestamp": 1415652765, 
+        "outSize": 46182672, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_20-52-38_tt20141107_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 312842900, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_20-52-38_tt20141107_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415653668, 
+        "compressionRatioInPercent": 15.228219241011887, 
+        "inTimestamp": 1415653519, 
+        "outSize": 9052333, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_21-05-01_gt20140407_stahlhelm_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 59444462, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_21-05-01_gt20140407_stahlhelm_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415653746, 
+        "compressionRatioInPercent": 14.212368965464469, 
+        "inTimestamp": 1415653669, 
+        "outSize": 4374046, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_21-07-48_gt20140407_gruender_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 30776333, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_21-07-48_gt20140407_gruender_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415653822, 
+        "compressionRatioInPercent": 14.51545651526905, 
+        "inTimestamp": 1415653747, 
+        "outSize": 4648867, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_21-09-06_gt20140407_dialekt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 32027012, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_21-09-06_gt20140407_dialekt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415654179, 
+        "compressionRatioInPercent": 14.963050044052618, 
+        "inTimestamp": 1415653825, 
+        "outSize": 21386719, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_21-10-22_gt20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 142930211, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_21-10-22_gt20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415654255, 
+        "compressionRatioInPercent": 14.640828229421208, 
+        "inTimestamp": 1415654179, 
+        "outSize": 4320945, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_21-16-19_je20141110_fest22g_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 29512982, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_21-16-19_je20141110_fest22g_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415654299, 
+        "compressionRatioInPercent": 15.014794593264657, 
+        "inTimestamp": 1415654255, 
+        "outSize": 2557000, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_21-17-35_je20141109_katalo18g_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17029870, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_21-17-35_je20141109_katalo18g_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415654341, 
+        "compressionRatioInPercent": 14.010039457796182, 
+        "inTimestamp": 1415654299, 
+        "outSize": 2491661, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_21-18-19_je20141109_mexikon12g_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17784825, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_21-18-19_je20141109_mexikon12g_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415654405, 
+        "compressionRatioInPercent": 14.255716711677712, 
+        "inTimestamp": 1415654342, 
+        "outSize": 3582955, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_21-19-01_je20141109_merkel14g_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 25133461, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_21-19-01_je20141109_merkel14g_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415654689, 
+        "compressionRatioInPercent": 14.7670587333594, 
+        "inTimestamp": 1415654409, 
+        "outSize": 21409434, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_21-20-05_ive20141109_genscher_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 144981031, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_21-20-05_ive20141109_genscher_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415657378, 
+        "compressionRatioInPercent": 15.295237663783736, 
+        "inTimestamp": 1415657290, 
+        "outSize": 5584285, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_22-08-03_kune20141110_22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 36509959, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_22-08-03_kune20141110_22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415657518, 
+        "compressionRatioInPercent": 14.737009951239045, 
+        "inTimestamp": 1415657386, 
+        "outSize": 7537005, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_22-09-38_gle20141110_indien_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51143380, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_22-09-38_gle20141110_indien_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415657697, 
+        "compressionRatioInPercent": 14.623816378870089, 
+        "inTimestamp": 1415657527, 
+        "outSize": 9520863, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_22-11-58_gle20141110_usa_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 65105187, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_22-11-58_gle20141110_usa_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415657931, 
+        "compressionRatioInPercent": 14.919894148094949, 
+        "inTimestamp": 1415657713, 
+        "outSize": 11961128, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_22-14-57_globalideas_en20141110_Kenia_lang_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 80168987, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_22-14-57_globalideas_en20141110_Kenia_lang_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415658098, 
+        "compressionRatioInPercent": 14.864059074870214, 
+        "inTimestamp": 1415657939, 
+        "outSize": 10263271, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_22-18-51_gle20141110_honduras_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 69047566, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_22-18-51_gle20141110_honduras_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415658916, 
+        "compressionRatioInPercent": 14.78662055830278, 
+        "inTimestamp": 1415658135, 
+        "outSize": 45869034, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_22-21-38_gle20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 310206337, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_22-21-38_gle20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415658969, 
+        "compressionRatioInPercent": 14.569409994069874, 
+        "inTimestamp": 1415658917, 
+        "outSize": 3145746, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_22-35-16_je20141110_rubel18a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 21591444, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_22-35-16_je20141110_rubel18a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415659030, 
+        "compressionRatioInPercent": 14.693215750798116, 
+        "inTimestamp": 1415658969, 
+        "outSize": 3559552, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_22-36-09_je20141110_catalan20a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 24225820, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_22-36-09_je20141110_catalan20a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415659073, 
+        "compressionRatioInPercent": 15.456194405243012, 
+        "inTimestamp": 1415659030, 
+        "outSize": 2775705, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_22-37-10_je20141110_trauer16a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17958528, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_22-37-10_je20141110_trauer16a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415660194, 
+        "compressionRatioInPercent": 14.742357485720985, 
+        "inTimestamp": 1415659081, 
+        "outSize": 63660279, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_22-37-53_talkg20131101_volkhardt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 431818853, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_22-37-53_talkg20131101_volkhardt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415660247, 
+        "compressionRatioInPercent": 14.771445012891368, 
+        "inTimestamp": 1415660195, 
+        "outSize": 4428729, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_22-56-34_je20141110_loechel14a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 29981691, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_22-56-34_je20141110_loechel14a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415660337, 
+        "compressionRatioInPercent": 15.475327655845122, 
+        "inTimestamp": 1415660248, 
+        "outSize": 5342931, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_22-57-27_je20141110_bvs15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 34525479, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_22-57-27_je20141110_bvs15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415660388, 
+        "compressionRatioInPercent": 14.30788993821171, 
+        "inTimestamp": 1415660337, 
+        "outSize": 2790521, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_22-58-57_je20141110_apec13a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 19503372, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_22-58-57_je20141110_apec13a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415660552, 
+        "compressionRatioInPercent": 14.607354278983063, 
+        "inTimestamp": 1415660390, 
+        "outSize": 9779787, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_22-59-48_tt20141107_box_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 66951118, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_22-59-48_tt20141107_box_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415660667, 
+        "compressionRatioInPercent": 15.077226972689314, 
+        "inTimestamp": 1415660553, 
+        "outSize": 6908288, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_23-02-32_tt20141107_telefonieren_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 45819354, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_23-02-32_tt20141107_telefonieren_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415660729, 
+        "compressionRatioInPercent": 14.65856533417881, 
+        "inTimestamp": 1415660668, 
+        "outSize": 3810576, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_23-04-27_tt20141107_frage_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 25995559, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_23-04-27_tt20141107_frage_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415660814, 
+        "compressionRatioInPercent": 14.717103416736073, 
+        "inTimestamp": 1415660730, 
+        "outSize": 6216025, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_23-05-29_tt20141107_studio_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 42236742, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_23-05-29_tt20141107_studio_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415660912, 
+        "compressionRatioInPercent": 15.26250517332104, 
+        "inTimestamp": 1415660815, 
+        "outSize": 6206185, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_23-06-54_tt20141107_wissenschaft_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 40662951, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_23-06-54_tt20141107_wissenschaft_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415661030, 
+        "compressionRatioInPercent": 14.854992120633822, 
+        "inTimestamp": 1415660913, 
+        "outSize": 6936218, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_23-08-32_tt20141107_ebola_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 46692842, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_23-08-32_tt20141107_ebola_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415661759, 
+        "compressionRatioInPercent": 14.762256710956201, 
+        "inTimestamp": 1415661037, 
+        "outSize": 46182672, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_23-10-30_tt20141107_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 312842900, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_23-10-30_tt20141107_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415661908, 
+        "compressionRatioInPercent": 15.228219241011887, 
+        "inTimestamp": 1415661760, 
+        "outSize": 9052333, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_23-22-39_gt20140407_stahlhelm_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 59444462, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_23-22-39_gt20140407_stahlhelm_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415661990, 
+        "compressionRatioInPercent": 14.212368965464469, 
+        "inTimestamp": 1415661913, 
+        "outSize": 4374046, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_23-25-08_gt20140407_gruender_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 30776333, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_23-25-08_gt20140407_gruender_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415662067, 
+        "compressionRatioInPercent": 14.51545651526905, 
+        "inTimestamp": 1415661994, 
+        "outSize": 4648867, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_23-26-30_gt20140407_dialekt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 32027012, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_23-26-30_gt20140407_dialekt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415662438, 
+        "compressionRatioInPercent": 14.963050044052618, 
+        "inTimestamp": 1415662087, 
+        "outSize": 21386719, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-10_23-27-47_gt20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 142930211, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-10_23-27-47_gt20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415664524, 
+        "compressionRatioInPercent": 14.68927190737795, 
+        "inTimestamp": 1415664485, 
+        "outSize": 2344852, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-08-02_je20141111_quote22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 15963024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-08-02_je20141111_quote22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415664601, 
+        "compressionRatioInPercent": 15.519780218357914, 
+        "inTimestamp": 1415664527, 
+        "outSize": 4436627, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-08-44_je20141110_jakarta15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 28586919, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-08-44_je20141110_jakarta15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415664627, 
+        "compressionRatioInPercent": 15.130221582310215, 
+        "inTimestamp": 1415664603, 
+        "outSize": 1644587, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-10-01_je20141111_hong01b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10869550, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-10-01_je20141111_hong01b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415664675, 
+        "compressionRatioInPercent": 15.31554154007004, 
+        "inTimestamp": 1415664630, 
+        "outSize": 2609216, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-10-27_je20141110_apec21a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17036394, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-10-27_je20141110_apec21a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415664700, 
+        "compressionRatioInPercent": 14.158598299332477, 
+        "inTimestamp": 1415664676, 
+        "outSize": 1480841, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-11-15_she20141110_exit_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10458952, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-11-15_she20141110_exit_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415664795, 
+        "compressionRatioInPercent": 14.810562564384817, 
+        "inTimestamp": 1415664704, 
+        "outSize": 4613290, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-11-40_she20141110_bahn_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 31148648, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-11-40_she20141110_bahn_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415664928, 
+        "compressionRatioInPercent": 14.579413888208414, 
+        "inTimestamp": 1415664803, 
+        "outSize": 7266173, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-13-15_she20141110_google_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 49838581, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-13-15_she20141110_google_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415665308, 
+        "compressionRatioInPercent": 14.882393204050654, 
+        "inTimestamp": 1415664945, 
+        "outSize": 21250937, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-15-28_she20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 142792471, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-15-28_she20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415665359, 
+        "compressionRatioInPercent": 15.331453164775098, 
+        "inTimestamp": 1415665310, 
+        "outSize": 3245519, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-21-48_je20141110_trauern20a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 21169024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-21-48_je20141110_trauern20a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415665413, 
+        "compressionRatioInPercent": 14.826474610007226, 
+        "inTimestamp": 1415665362, 
+        "outSize": 2828345, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-22-39_je20141110_nahost22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 19076315, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-22-39_je20141110_nahost22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415665501, 
+        "compressionRatioInPercent": 15.295237663783736, 
+        "inTimestamp": 1415665414, 
+        "outSize": 5584285, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-23-33_kune20141110_22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 36509959, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-23-33_kune20141110_22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415665636, 
+        "compressionRatioInPercent": 14.737009951239045, 
+        "inTimestamp": 1415665503, 
+        "outSize": 7537005, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-25-01_gle20141110_indien_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51143380, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-25-01_gle20141110_indien_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415665808, 
+        "compressionRatioInPercent": 14.623816378870089, 
+        "inTimestamp": 1415665638, 
+        "outSize": 9520863, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-27-16_gle20141110_usa_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 65105187, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-27-16_gle20141110_usa_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415666026, 
+        "compressionRatioInPercent": 14.919894148094949, 
+        "inTimestamp": 1415665810, 
+        "outSize": 11961128, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-30-08_globalideas_en20141110_Kenia_lang_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 80168987, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-30-08_globalideas_en20141110_Kenia_lang_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415666188, 
+        "compressionRatioInPercent": 14.864059074870214, 
+        "inTimestamp": 1415666028, 
+        "outSize": 10263271, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-33-46_gle20141110_honduras_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 69047566, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-33-46_gle20141110_honduras_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415666980, 
+        "compressionRatioInPercent": 14.78662055830278, 
+        "inTimestamp": 1415666197, 
+        "outSize": 45869034, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-36-28_gle20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 310206337, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-36-28_gle20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415667037, 
+        "compressionRatioInPercent": 14.569409994069874, 
+        "inTimestamp": 1415666984, 
+        "outSize": 3145746, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-49-40_je20141110_rubel18a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 21591444, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-49-40_je20141110_rubel18a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415667103, 
+        "compressionRatioInPercent": 14.693215750798116, 
+        "inTimestamp": 1415667041, 
+        "outSize": 3559552, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-50-38_je20141110_catalan20a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 24225820, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-50-38_je20141110_catalan20a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415668226, 
+        "compressionRatioInPercent": 14.742357485720985, 
+        "inTimestamp": 1415667118, 
+        "outSize": 63660279, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_00-51-43_talkg20131101_volkhardt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 431818853, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_00-51-43_talkg20131101_volkhardt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415668279, 
+        "compressionRatioInPercent": 14.771445012891368, 
+        "inTimestamp": 1415668227, 
+        "outSize": 4428729, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_01-10-26_je20141110_loechel14a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 29981691, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_01-10-26_je20141110_loechel14a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415668371, 
+        "compressionRatioInPercent": 15.475327655845122, 
+        "inTimestamp": 1415668280, 
+        "outSize": 5342931, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_01-11-19_je20141110_bvs15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 34525479, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_01-11-19_je20141110_bvs15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415668530, 
+        "compressionRatioInPercent": 14.607354278983063, 
+        "inTimestamp": 1415668372, 
+        "outSize": 9779787, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_01-12-51_tt20141107_box_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 66951118, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_01-12-51_tt20141107_box_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415668645, 
+        "compressionRatioInPercent": 15.077226972689314, 
+        "inTimestamp": 1415668532, 
+        "outSize": 6908288, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_01-15-30_tt20141107_telefonieren_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 45819354, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_01-15-30_tt20141107_telefonieren_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415668708, 
+        "compressionRatioInPercent": 14.65856533417881, 
+        "inTimestamp": 1415668646, 
+        "outSize": 3810576, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_01-17-25_tt20141107_frage_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 25995559, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_01-17-25_tt20141107_frage_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415671807, 
+        "compressionRatioInPercent": 14.775520637002938, 
+        "inTimestamp": 1415671689, 
+        "outSize": 7576017, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-08-03_eme20141110_posen_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51274112, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-08-03_eme20141110_posen_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415671965, 
+        "compressionRatioInPercent": 14.424531409108951, 
+        "inTimestamp": 1415671815, 
+        "outSize": 9695753, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-10-07_eme20141110_fettebeute_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 67217109, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-10-07_eme20141110_fettebeute_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415672131, 
+        "compressionRatioInPercent": 14.629829611309066, 
+        "inTimestamp": 1415671972, 
+        "outSize": 9261666, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-12-45_eme20141110_seriewahrzeichen01_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 63306725, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-12-45_eme20141110_seriewahrzeichen01_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415672892, 
+        "compressionRatioInPercent": 14.801087347921365, 
+        "inTimestamp": 1415672161, 
+        "outSize": 46127047, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-15-31_eme20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 311646340, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-15-31_eme20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415673017, 
+        "compressionRatioInPercent": 14.354601597020766, 
+        "inTimestamp": 1415672899, 
+        "outSize": 6660089, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-28-12_gt20140408_automatenkunst_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 46396892, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-28-12_gt20140408_automatenkunst_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415673119, 
+        "compressionRatioInPercent": 14.302458593681484, 
+        "inTimestamp": 1415673023, 
+        "outSize": 5331231, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-30-17_gt20140408_seriegruender_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 37274927, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-30-17_gt20140408_seriegruender_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415673232, 
+        "compressionRatioInPercent": 15.70389861885363, 
+        "inTimestamp": 1415673125, 
+        "outSize": 6610743, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-31-59_gt20140408_talent_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 42096190, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-31-59_gt20140408_talent_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415673612, 
+        "compressionRatioInPercent": 14.660980642321597, 
+        "inTimestamp": 1415673254, 
+        "outSize": 21007244, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-33-53_gt20141111_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 143286759, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-33-53_gt20141111_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415673699, 
+        "compressionRatioInPercent": 14.555608114636868, 
+        "inTimestamp": 1415673616, 
+        "outSize": 5132277, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-40-12_kune20141111_01b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 35259791, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-40-12_kune20141111_01b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415673740, 
+        "compressionRatioInPercent": 14.68927190737795, 
+        "inTimestamp": 1415673700, 
+        "outSize": 2344852, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-41-39_je20141111_quote22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 15963024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-41-39_je20141111_quote22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415673817, 
+        "compressionRatioInPercent": 15.519780218357914, 
+        "inTimestamp": 1415673741, 
+        "outSize": 4436627, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-42-20_je20141110_jakarta15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 28586919, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-42-20_je20141110_jakarta15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415673842, 
+        "compressionRatioInPercent": 15.130221582310215, 
+        "inTimestamp": 1415673817, 
+        "outSize": 1644587, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-43-37_je20141111_hong01b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10869550, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-43-37_je20141111_hong01b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415673887, 
+        "compressionRatioInPercent": 15.31554154007004, 
+        "inTimestamp": 1415673842, 
+        "outSize": 2609216, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-44-02_je20141110_apec21a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17036394, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-44-02_je20141110_apec21a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415673911, 
+        "compressionRatioInPercent": 14.158598299332477, 
+        "inTimestamp": 1415673887, 
+        "outSize": 1480841, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-44-47_she20141110_exit_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10458952, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-44-47_she20141110_exit_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415674003, 
+        "compressionRatioInPercent": 14.810562564384817, 
+        "inTimestamp": 1415673913, 
+        "outSize": 4613290, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-45-12_she20141110_bahn_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 31148648, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-45-12_she20141110_bahn_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415674128, 
+        "compressionRatioInPercent": 14.579413888208414, 
+        "inTimestamp": 1415674004, 
+        "outSize": 7266173, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-46-43_she20141110_google_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 49838581, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-46-43_she20141110_google_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415674493, 
+        "compressionRatioInPercent": 14.882393204050654, 
+        "inTimestamp": 1415674131, 
+        "outSize": 21250937, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-48-48_she20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 142792471, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-48-48_she20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415674542, 
+        "compressionRatioInPercent": 15.331453164775098, 
+        "inTimestamp": 1415674494, 
+        "outSize": 3245519, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-54-53_je20141110_trauern20a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 21169024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-54-53_je20141110_trauern20a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415674591, 
+        "compressionRatioInPercent": 14.826474610007226, 
+        "inTimestamp": 1415674543, 
+        "outSize": 2828345, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-55-42_je20141110_nahost22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 19076315, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-55-42_je20141110_nahost22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415674724, 
+        "compressionRatioInPercent": 14.737009951239045, 
+        "inTimestamp": 1415674593, 
+        "outSize": 7537005, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-56-31_gle20141110_indien_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51143380, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-56-31_gle20141110_indien_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415674899, 
+        "compressionRatioInPercent": 14.623816378870089, 
+        "inTimestamp": 1415674726, 
+        "outSize": 9520863, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_02-58-44_gle20141110_usa_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 65105187, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_02-58-44_gle20141110_usa_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415675120, 
+        "compressionRatioInPercent": 14.919894148094949, 
+        "inTimestamp": 1415674902, 
+        "outSize": 11961128, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_03-01-39_globalideas_en20141110_Kenia_lang_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 80168987, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_03-01-39_globalideas_en20141110_Kenia_lang_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415675284, 
+        "compressionRatioInPercent": 14.864059074870214, 
+        "inTimestamp": 1415675122, 
+        "outSize": 10263271, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_03-05-20_gle20141110_honduras_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 69047566, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_03-05-20_gle20141110_honduras_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415676072, 
+        "compressionRatioInPercent": 14.78662055830278, 
+        "inTimestamp": 1415675293, 
+        "outSize": 45869034, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_03-08-04_gle20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 310206337, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_03-08-04_gle20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415678973, 
+        "compressionRatioInPercent": 14.668911517853042, 
+        "inTimestamp": 1415678889, 
+        "outSize": 5274798, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-08-03_kune20141111_04b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 35959028, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-08-03_kune20141111_04b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415679096, 
+        "compressionRatioInPercent": 14.775520637002938, 
+        "inTimestamp": 1415678978, 
+        "outSize": 7576017, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-09-33_eme20141110_posen_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51274112, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-09-33_eme20141110_posen_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415679255, 
+        "compressionRatioInPercent": 14.424531409108951, 
+        "inTimestamp": 1415679102, 
+        "outSize": 9695753, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-11-36_eme20141110_fettebeute_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 67217109, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-11-36_eme20141110_fettebeute_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415679420, 
+        "compressionRatioInPercent": 14.629829611309066, 
+        "inTimestamp": 1415679261, 
+        "outSize": 9261666, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-14-15_eme20141110_seriewahrzeichen01_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 63306725, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-14-15_eme20141110_seriewahrzeichen01_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415680155, 
+        "compressionRatioInPercent": 14.801087347921365, 
+        "inTimestamp": 1415679427, 
+        "outSize": 46127047, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-17-00_eme20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 311646340, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-17-00_eme20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415680274, 
+        "compressionRatioInPercent": 14.354601597020766, 
+        "inTimestamp": 1415680157, 
+        "outSize": 6660089, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-29-16_gt20140408_automatenkunst_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 46396892, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-29-16_gt20140408_automatenkunst_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415680369, 
+        "compressionRatioInPercent": 14.302458593681484, 
+        "inTimestamp": 1415680275, 
+        "outSize": 5331231, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-31-14_gt20140408_seriegruender_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 37274927, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-31-14_gt20140408_seriegruender_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415680476, 
+        "compressionRatioInPercent": 15.70389861885363, 
+        "inTimestamp": 1415680371, 
+        "outSize": 6610743, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-32-49_gt20140408_talent_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 42096190, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-32-49_gt20140408_talent_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415680844, 
+        "compressionRatioInPercent": 14.660980642321597, 
+        "inTimestamp": 1415680480, 
+        "outSize": 21007244, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-34-36_gt20141111_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 143286759, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-34-36_gt20141111_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415680884, 
+        "compressionRatioInPercent": 14.68927190737795, 
+        "inTimestamp": 1415680844, 
+        "outSize": 2344852, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-40-44_je20141111_quote22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 15963024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-40-44_je20141111_quote22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415680960, 
+        "compressionRatioInPercent": 15.519780218357914, 
+        "inTimestamp": 1415680885, 
+        "outSize": 4436627, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-41-24_je20141110_jakarta15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 28586919, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-41-24_je20141110_jakarta15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415680985, 
+        "compressionRatioInPercent": 15.130221582310215, 
+        "inTimestamp": 1415680960, 
+        "outSize": 1644587, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-42-40_je20141111_hong01b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10869550, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-42-40_je20141111_hong01b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415681030, 
+        "compressionRatioInPercent": 15.31554154007004, 
+        "inTimestamp": 1415680985, 
+        "outSize": 2609216, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-43-05_je20141110_apec21a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17036394, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-43-05_je20141110_apec21a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415681055, 
+        "compressionRatioInPercent": 14.158598299332477, 
+        "inTimestamp": 1415681030, 
+        "outSize": 1480841, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-43-50_she20141110_exit_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10458952, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-43-50_she20141110_exit_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415681146, 
+        "compressionRatioInPercent": 14.810562564384817, 
+        "inTimestamp": 1415681056, 
+        "outSize": 4613290, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-44-15_she20141110_bahn_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 31148648, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-44-15_she20141110_bahn_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415681275, 
+        "compressionRatioInPercent": 14.579413888208414, 
+        "inTimestamp": 1415681147, 
+        "outSize": 7266173, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-45-46_she20141110_google_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 49838581, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-45-46_she20141110_google_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415681643, 
+        "compressionRatioInPercent": 14.882393204050654, 
+        "inTimestamp": 1415681278, 
+        "outSize": 21250937, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-47-55_she20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 142792471, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-47-55_she20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415681693, 
+        "compressionRatioInPercent": 15.331453164775098, 
+        "inTimestamp": 1415681643, 
+        "outSize": 3245519, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-54-03_je20141110_trauern20a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 21169024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-54-03_je20141110_trauern20a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415681744, 
+        "compressionRatioInPercent": 14.826474610007226, 
+        "inTimestamp": 1415681694, 
+        "outSize": 2828345, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-54-53_je20141110_nahost22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 19076315, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-54-53_je20141110_nahost22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415681878, 
+        "compressionRatioInPercent": 14.737009951239045, 
+        "inTimestamp": 1415681746, 
+        "outSize": 7537005, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-55-45_gle20141110_indien_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51143380, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-55-45_gle20141110_indien_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415682050, 
+        "compressionRatioInPercent": 14.623816378870089, 
+        "inTimestamp": 1415681880, 
+        "outSize": 9520863, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_04-57-58_gle20141110_usa_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 65105187, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_04-57-58_gle20141110_usa_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415682272, 
+        "compressionRatioInPercent": 14.919894148094949, 
+        "inTimestamp": 1415682052, 
+        "outSize": 11961128, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_05-00-50_globalideas_en20141110_Kenia_lang_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 80168987, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_05-00-50_globalideas_en20141110_Kenia_lang_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415682435, 
+        "compressionRatioInPercent": 14.864059074870214, 
+        "inTimestamp": 1415682274, 
+        "outSize": 10263271, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_05-04-32_gle20141110_honduras_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 69047566, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_05-04-32_gle20141110_honduras_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415683231, 
+        "compressionRatioInPercent": 14.78662055830278, 
+        "inTimestamp": 1415682443, 
+        "outSize": 45869034, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_05-07-15_gle20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 310206337, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_05-07-15_gle20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415686170, 
+        "compressionRatioInPercent": 14.668911517853042, 
+        "inTimestamp": 1415686086, 
+        "outSize": 5274798, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-08-03_kune20141111_04b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 35959028, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-08-03_kune20141111_04b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415686290, 
+        "compressionRatioInPercent": 14.775520637002938, 
+        "inTimestamp": 1415686171, 
+        "outSize": 7576017, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-09-30_eme20141110_posen_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51274112, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-09-30_eme20141110_posen_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415686443, 
+        "compressionRatioInPercent": 14.424531409108951, 
+        "inTimestamp": 1415686292, 
+        "outSize": 9695753, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-11-30_eme20141110_fettebeute_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 67217109, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-11-30_eme20141110_fettebeute_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415686601, 
+        "compressionRatioInPercent": 14.629829611309066, 
+        "inTimestamp": 1415686445, 
+        "outSize": 9261666, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-14-03_eme20141110_seriewahrzeichen01_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 63306725, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-14-03_eme20141110_seriewahrzeichen01_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415687379, 
+        "compressionRatioInPercent": 14.801087347921365, 
+        "inTimestamp": 1415686628, 
+        "outSize": 46127047, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-16-41_eme20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 311646340, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-16-41_eme20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415687501, 
+        "compressionRatioInPercent": 14.354601597020766, 
+        "inTimestamp": 1415687383, 
+        "outSize": 6660089, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-29-39_gt20140408_automatenkunst_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 46396892, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-29-39_gt20140408_automatenkunst_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415687601, 
+        "compressionRatioInPercent": 14.302458593681484, 
+        "inTimestamp": 1415687506, 
+        "outSize": 5331231, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-31-41_gt20140408_seriegruender_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 37274927, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-31-41_gt20140408_seriegruender_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415687710, 
+        "compressionRatioInPercent": 15.70389861885363, 
+        "inTimestamp": 1415687604, 
+        "outSize": 6610743, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-33-21_gt20140408_talent_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 42096190, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-33-21_gt20140408_talent_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415688073, 
+        "compressionRatioInPercent": 14.660980642321597, 
+        "inTimestamp": 1415687721, 
+        "outSize": 21007244, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-35-10_gt20141111_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 143286759, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-35-10_gt20141111_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415688113, 
+        "compressionRatioInPercent": 14.68927190737795, 
+        "inTimestamp": 1415688074, 
+        "outSize": 2344852, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-41-13_je20141111_quote22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 15963024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-41-13_je20141111_quote22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415688186, 
+        "compressionRatioInPercent": 15.519780218357914, 
+        "inTimestamp": 1415688113, 
+        "outSize": 4436627, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-41-53_je20141110_jakarta15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 28586919, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-41-53_je20141110_jakarta15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415688211, 
+        "compressionRatioInPercent": 15.130221582310215, 
+        "inTimestamp": 1415688187, 
+        "outSize": 1644587, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-43-06_je20141111_hong01b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10869550, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-43-06_je20141111_hong01b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415688255, 
+        "compressionRatioInPercent": 15.31554154007004, 
+        "inTimestamp": 1415688211, 
+        "outSize": 2609216, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-43-31_je20141110_apec21a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17036394, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-43-31_je20141110_apec21a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415688281, 
+        "compressionRatioInPercent": 14.158598299332477, 
+        "inTimestamp": 1415688256, 
+        "outSize": 1480841, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-44-15_she20141110_exit_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10458952, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-44-15_she20141110_exit_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415688370, 
+        "compressionRatioInPercent": 14.810562564384817, 
+        "inTimestamp": 1415688281, 
+        "outSize": 4613290, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-44-41_she20141110_bahn_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 31148648, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-44-41_she20141110_bahn_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415688496, 
+        "compressionRatioInPercent": 14.579413888208414, 
+        "inTimestamp": 1415688372, 
+        "outSize": 7266173, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-46-10_she20141110_google_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 49838581, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-46-10_she20141110_google_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415688861, 
+        "compressionRatioInPercent": 14.882393204050654, 
+        "inTimestamp": 1415688500, 
+        "outSize": 21250937, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-48-16_she20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 142792471, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-48-16_she20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415688910, 
+        "compressionRatioInPercent": 15.331453164775098, 
+        "inTimestamp": 1415688861, 
+        "outSize": 3245519, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-54-21_je20141110_trauern20a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 21169024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-54-21_je20141110_trauern20a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415688960, 
+        "compressionRatioInPercent": 14.826474610007226, 
+        "inTimestamp": 1415688910, 
+        "outSize": 2828345, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-55-10_je20141110_nahost22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 19076315, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-55-10_je20141110_nahost22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415689095, 
+        "compressionRatioInPercent": 14.737009951239045, 
+        "inTimestamp": 1415688961, 
+        "outSize": 7537005, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-56-00_gle20141110_indien_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51143380, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-56-00_gle20141110_indien_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415689268, 
+        "compressionRatioInPercent": 14.623816378870089, 
+        "inTimestamp": 1415689097, 
+        "outSize": 9520863, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_06-58-15_gle20141110_usa_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 65105187, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_06-58-15_gle20141110_usa_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415689491, 
+        "compressionRatioInPercent": 14.919894148094949, 
+        "inTimestamp": 1415689271, 
+        "outSize": 11961128, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_07-01-08_globalideas_en20141110_Kenia_lang_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 80168987, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_07-01-08_globalideas_en20141110_Kenia_lang_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415689649, 
+        "compressionRatioInPercent": 14.864059074870214, 
+        "inTimestamp": 1415689492, 
+        "outSize": 10263271, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_07-04-51_gle20141110_honduras_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 69047566, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_07-04-51_gle20141110_honduras_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415690448, 
+        "compressionRatioInPercent": 14.78662055830278, 
+        "inTimestamp": 1415689657, 
+        "outSize": 45869034, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_07-07-29_gle20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 310206337, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_07-07-29_gle20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415693370, 
+        "compressionRatioInPercent": 15.095517423894378, 
+        "inTimestamp": 1415693287, 
+        "outSize": 5184957, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-08-03_kune20141111_08b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 34347660, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-08-03_kune20141111_08b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415693492, 
+        "compressionRatioInPercent": 14.775520637002938, 
+        "inTimestamp": 1415693372, 
+        "outSize": 7576017, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-09-30_eme20141110_posen_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51274112, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-09-30_eme20141110_posen_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415693643, 
+        "compressionRatioInPercent": 14.424531409108951, 
+        "inTimestamp": 1415693493, 
+        "outSize": 9695753, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-11-32_eme20141110_fettebeute_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 67217109, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-11-32_eme20141110_fettebeute_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415693800, 
+        "compressionRatioInPercent": 14.629829611309066, 
+        "inTimestamp": 1415693645, 
+        "outSize": 9261666, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-14-03_eme20141110_seriewahrzeichen01_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 63306725, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-14-03_eme20141110_seriewahrzeichen01_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415694532, 
+        "compressionRatioInPercent": 14.801087347921365, 
+        "inTimestamp": 1415693809, 
+        "outSize": 46127047, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-16-40_eme20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 311646340, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-16-40_eme20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415694652, 
+        "compressionRatioInPercent": 14.354601597020766, 
+        "inTimestamp": 1415694534, 
+        "outSize": 6660089, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-28-52_gt20140408_automatenkunst_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 46396892, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-28-52_gt20140408_automatenkunst_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415694747, 
+        "compressionRatioInPercent": 14.302458593681484, 
+        "inTimestamp": 1415694653, 
+        "outSize": 5331231, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-30-52_gt20140408_seriegruender_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 37274927, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-30-52_gt20140408_seriegruender_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415694855, 
+        "compressionRatioInPercent": 15.70389861885363, 
+        "inTimestamp": 1415694748, 
+        "outSize": 6610743, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-32-27_gt20140408_talent_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 42096190, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-32-27_gt20140408_talent_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415695218, 
+        "compressionRatioInPercent": 14.660980642321597, 
+        "inTimestamp": 1415694859, 
+        "outSize": 21007244, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-34-15_gt20141111_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 143286759, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-34-15_gt20141111_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415695257, 
+        "compressionRatioInPercent": 14.68927190737795, 
+        "inTimestamp": 1415695218, 
+        "outSize": 2344852, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-40-18_je20141111_quote22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 15963024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-40-18_je20141111_quote22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415695332, 
+        "compressionRatioInPercent": 15.519780218357914, 
+        "inTimestamp": 1415695258, 
+        "outSize": 4436627, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-40-57_je20141110_jakarta15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 28586919, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-40-57_je20141110_jakarta15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415695357, 
+        "compressionRatioInPercent": 15.130221582310215, 
+        "inTimestamp": 1415695332, 
+        "outSize": 1644587, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-42-12_je20141111_hong01b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10869550, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-42-12_je20141111_hong01b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415695402, 
+        "compressionRatioInPercent": 15.31554154007004, 
+        "inTimestamp": 1415695358, 
+        "outSize": 2609216, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-42-37_je20141110_apec21a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17036394, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-42-37_je20141110_apec21a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415695427, 
+        "compressionRatioInPercent": 14.158598299332477, 
+        "inTimestamp": 1415695403, 
+        "outSize": 1480841, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-43-22_she20141110_exit_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10458952, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-43-22_she20141110_exit_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415695519, 
+        "compressionRatioInPercent": 14.810562564384817, 
+        "inTimestamp": 1415695428, 
+        "outSize": 4613290, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-43-47_she20141110_bahn_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 31148648, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-43-47_she20141110_bahn_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415695646, 
+        "compressionRatioInPercent": 14.579413888208414, 
+        "inTimestamp": 1415695520, 
+        "outSize": 7266173, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-45-19_she20141110_google_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 49838581, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-45-19_she20141110_google_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415696012, 
+        "compressionRatioInPercent": 14.882393204050654, 
+        "inTimestamp": 1415695650, 
+        "outSize": 21250937, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-47-26_she20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 142792471, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-47-26_she20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415696061, 
+        "compressionRatioInPercent": 15.331453164775098, 
+        "inTimestamp": 1415696012, 
+        "outSize": 3245519, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-53-32_je20141110_trauern20a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 21169024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-53-32_je20141110_trauern20a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415696112, 
+        "compressionRatioInPercent": 14.826474610007226, 
+        "inTimestamp": 1415696061, 
+        "outSize": 2828345, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-54-21_je20141110_nahost22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 19076315, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-54-21_je20141110_nahost22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415696244, 
+        "compressionRatioInPercent": 14.737009951239045, 
+        "inTimestamp": 1415696113, 
+        "outSize": 7537005, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-55-12_gle20141110_indien_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51143380, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-55-12_gle20141110_indien_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415696417, 
+        "compressionRatioInPercent": 14.623816378870089, 
+        "inTimestamp": 1415696246, 
+        "outSize": 9520863, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_08-57-24_gle20141110_usa_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 65105187, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_08-57-24_gle20141110_usa_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415696637, 
+        "compressionRatioInPercent": 14.919894148094949, 
+        "inTimestamp": 1415696419, 
+        "outSize": 11961128, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_09-00-17_globalideas_en20141110_Kenia_lang_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 80168987, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_09-00-17_globalideas_en20141110_Kenia_lang_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415696805, 
+        "compressionRatioInPercent": 14.864059074870214, 
+        "inTimestamp": 1415696646, 
+        "outSize": 10263271, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_09-03-57_gle20141110_honduras_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 69047566, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_09-03-57_gle20141110_honduras_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415697623, 
+        "compressionRatioInPercent": 14.78662055830278, 
+        "inTimestamp": 1415696840, 
+        "outSize": 45869034, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_09-06-45_gle20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 310206337, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_09-06-45_gle20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415700576, 
+        "compressionRatioInPercent": 15.043966689384018, 
+        "inTimestamp": 1415700487, 
+        "outSize": 5290284, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-08-03_kune20141111_10b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 35165486, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-08-03_kune20141111_10b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415700697, 
+        "compressionRatioInPercent": 14.775520637002938, 
+        "inTimestamp": 1415700578, 
+        "outSize": 7576017, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-09-36_eme20141110_posen_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51274112, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-09-36_eme20141110_posen_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415700850, 
+        "compressionRatioInPercent": 14.424531409108951, 
+        "inTimestamp": 1415700699, 
+        "outSize": 9695753, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-11-37_eme20141110_fettebeute_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 67217109, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-11-37_eme20141110_fettebeute_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415701011, 
+        "compressionRatioInPercent": 14.629829611309066, 
+        "inTimestamp": 1415700853, 
+        "outSize": 9261666, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-14-10_eme20141110_seriewahrzeichen01_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 63306725, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-14-10_eme20141110_seriewahrzeichen01_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415701745, 
+        "compressionRatioInPercent": 14.801087347921365, 
+        "inTimestamp": 1415701019, 
+        "outSize": 46127047, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-16-51_eme20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 311646340, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-16-51_eme20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415701863, 
+        "compressionRatioInPercent": 14.354601597020766, 
+        "inTimestamp": 1415701746, 
+        "outSize": 6660089, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-29-05_gt20140408_automatenkunst_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 46396892, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-29-05_gt20140408_automatenkunst_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415701958, 
+        "compressionRatioInPercent": 14.302458593681484, 
+        "inTimestamp": 1415701864, 
+        "outSize": 5331231, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-31-03_gt20140408_seriegruender_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 37274927, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-31-03_gt20140408_seriegruender_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415702065, 
+        "compressionRatioInPercent": 15.70389861885363, 
+        "inTimestamp": 1415701960, 
+        "outSize": 6610743, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-32-38_gt20140408_talent_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 42096190, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-32-38_gt20140408_talent_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415702423, 
+        "compressionRatioInPercent": 14.660980642321597, 
+        "inTimestamp": 1415702068, 
+        "outSize": 21007244, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-34-25_gt20141111_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 143286759, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-34-25_gt20141111_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415702463, 
+        "compressionRatioInPercent": 14.68927190737795, 
+        "inTimestamp": 1415702424, 
+        "outSize": 2344852, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-40-23_je20141111_quote22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 15963024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-40-23_je20141111_quote22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415702538, 
+        "compressionRatioInPercent": 15.519780218357914, 
+        "inTimestamp": 1415702464, 
+        "outSize": 4436627, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-41-03_je20141110_jakarta15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 28586919, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-41-03_je20141110_jakarta15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415702562, 
+        "compressionRatioInPercent": 15.130221582310215, 
+        "inTimestamp": 1415702538, 
+        "outSize": 1644587, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-42-18_je20141111_hong01b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10869550, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-42-18_je20141111_hong01b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415702602, 
+        "compressionRatioInPercent": 14.441855484533233, 
+        "inTimestamp": 1415702565, 
+        "outSize": 2108639, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-42-42_je20141110_wmfilm22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 14600887, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-42-42_je20141110_wmfilm22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415702647, 
+        "compressionRatioInPercent": 15.31554154007004, 
+        "inTimestamp": 1415702602, 
+        "outSize": 2609216, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-43-22_je20141110_apec21a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17036394, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-43-22_je20141110_apec21a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415702673, 
+        "compressionRatioInPercent": 14.158598299332477, 
+        "inTimestamp": 1415702648, 
+        "outSize": 1480841, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-44-07_she20141110_exit_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10458952, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-44-07_she20141110_exit_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415702764, 
+        "compressionRatioInPercent": 14.810562564384817, 
+        "inTimestamp": 1415702674, 
+        "outSize": 4613290, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-44-33_she20141110_bahn_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 31148648, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-44-33_she20141110_bahn_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415702893, 
+        "compressionRatioInPercent": 14.579413888208414, 
+        "inTimestamp": 1415702766, 
+        "outSize": 7266173, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-46-04_she20141110_google_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 49838581, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-46-04_she20141110_google_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415703260, 
+        "compressionRatioInPercent": 14.882393204050654, 
+        "inTimestamp": 1415702898, 
+        "outSize": 21250937, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-48-13_she20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 142792471, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-48-13_she20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415703309, 
+        "compressionRatioInPercent": 15.331453164775098, 
+        "inTimestamp": 1415703260, 
+        "outSize": 3245519, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-54-20_je20141110_trauern20a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 21169024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-54-20_je20141110_trauern20a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415703359, 
+        "compressionRatioInPercent": 14.826474610007226, 
+        "inTimestamp": 1415703310, 
+        "outSize": 2828345, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-55-09_je20141110_nahost22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 19076315, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-55-09_je20141110_nahost22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415703494, 
+        "compressionRatioInPercent": 14.737009951239045, 
+        "inTimestamp": 1415703361, 
+        "outSize": 7537005, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-55-59_gle20141110_indien_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51143380, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-55-59_gle20141110_indien_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415703666, 
+        "compressionRatioInPercent": 14.623816378870089, 
+        "inTimestamp": 1415703496, 
+        "outSize": 9520863, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_10-58-14_gle20141110_usa_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 65105187, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_10-58-14_gle20141110_usa_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415703887, 
+        "compressionRatioInPercent": 14.919894148094949, 
+        "inTimestamp": 1415703669, 
+        "outSize": 11961128, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-01-06_globalideas_en20141110_Kenia_lang_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 80168987, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-01-06_globalideas_en20141110_Kenia_lang_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415704046, 
+        "compressionRatioInPercent": 14.864059074870214, 
+        "inTimestamp": 1415703889, 
+        "outSize": 10263271, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-04-47_gle20141110_honduras_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 69047566, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-04-47_gle20141110_honduras_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415704177, 
+        "compressionRatioInPercent": 15.043966689384018, 
+        "inTimestamp": 1415704088, 
+        "outSize": 5290284, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-08-03_kune20141111_10b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 35165486, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-08-03_kune20141111_10b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415704299, 
+        "compressionRatioInPercent": 14.775520637002938, 
+        "inTimestamp": 1415704179, 
+        "outSize": 7576017, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-09-37_eme20141110_posen_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51274112, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-09-37_eme20141110_posen_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415704452, 
+        "compressionRatioInPercent": 14.424531409108951, 
+        "inTimestamp": 1415704302, 
+        "outSize": 9695753, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-11-39_eme20141110_fettebeute_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 67217109, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-11-39_eme20141110_fettebeute_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415704611, 
+        "compressionRatioInPercent": 14.629829611309066, 
+        "inTimestamp": 1415704455, 
+        "outSize": 9261666, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-14-12_eme20141110_seriewahrzeichen01_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 63306725, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-14-12_eme20141110_seriewahrzeichen01_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415705341, 
+        "compressionRatioInPercent": 14.801087347921365, 
+        "inTimestamp": 1415704622, 
+        "outSize": 46127047, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-16-51_eme20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 311646340, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-16-51_eme20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415705461, 
+        "compressionRatioInPercent": 14.354601597020766, 
+        "inTimestamp": 1415705343, 
+        "outSize": 6660089, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-29-01_gt20140408_automatenkunst_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 46396892, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-29-01_gt20140408_automatenkunst_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415705557, 
+        "compressionRatioInPercent": 14.302458593681484, 
+        "inTimestamp": 1415705463, 
+        "outSize": 5331231, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-31-01_gt20140408_seriegruender_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 37274927, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-31-01_gt20140408_seriegruender_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415705664, 
+        "compressionRatioInPercent": 15.70389861885363, 
+        "inTimestamp": 1415705558, 
+        "outSize": 6610743, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-32-37_gt20140408_talent_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 42096190, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-32-37_gt20140408_talent_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415706024, 
+        "compressionRatioInPercent": 14.660980642321597, 
+        "inTimestamp": 1415705670, 
+        "outSize": 21007244, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-34-24_gt20141111_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 143286759, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-34-24_gt20141111_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415706063, 
+        "compressionRatioInPercent": 14.68927190737795, 
+        "inTimestamp": 1415706025, 
+        "outSize": 2344852, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-40-24_je20141111_quote22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 15963024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-40-24_je20141111_quote22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415706138, 
+        "compressionRatioInPercent": 15.519780218357914, 
+        "inTimestamp": 1415706064, 
+        "outSize": 4436627, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-41-03_je20141110_jakarta15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 28586919, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-41-03_je20141110_jakarta15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415706163, 
+        "compressionRatioInPercent": 15.130221582310215, 
+        "inTimestamp": 1415706139, 
+        "outSize": 1644587, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-42-18_je20141111_hong01b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10869550, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-42-18_je20141111_hong01b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415706200, 
+        "compressionRatioInPercent": 14.441855484533233, 
+        "inTimestamp": 1415706163, 
+        "outSize": 2108639, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-42-43_je20141110_wmfilm22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 14600887, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-42-43_je20141110_wmfilm22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415706245, 
+        "compressionRatioInPercent": 15.31554154007004, 
+        "inTimestamp": 1415706200, 
+        "outSize": 2609216, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-43-20_je20141110_apec21a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17036394, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-43-20_je20141110_apec21a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415706270, 
+        "compressionRatioInPercent": 14.158598299332477, 
+        "inTimestamp": 1415706245, 
+        "outSize": 1480841, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-44-05_she20141110_exit_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10458952, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-44-05_she20141110_exit_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415706360, 
+        "compressionRatioInPercent": 14.810562564384817, 
+        "inTimestamp": 1415706271, 
+        "outSize": 4613290, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-44-30_she20141110_bahn_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 31148648, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-44-30_she20141110_bahn_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415706488, 
+        "compressionRatioInPercent": 14.579413888208414, 
+        "inTimestamp": 1415706362, 
+        "outSize": 7266173, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-46-00_she20141110_google_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 49838581, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-46-00_she20141110_google_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415706853, 
+        "compressionRatioInPercent": 14.882393204050654, 
+        "inTimestamp": 1415706492, 
+        "outSize": 21250937, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-48-08_she20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 142792471, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-48-08_she20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415706902, 
+        "compressionRatioInPercent": 15.331453164775098, 
+        "inTimestamp": 1415706854, 
+        "outSize": 3245519, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-54-13_je20141110_trauern20a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 21169024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-54-13_je20141110_trauern20a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415706952, 
+        "compressionRatioInPercent": 14.826474610007226, 
+        "inTimestamp": 1415706903, 
+        "outSize": 2828345, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-55-02_je20141110_nahost22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 19076315, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-55-02_je20141110_nahost22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415707084, 
+        "compressionRatioInPercent": 14.737009951239045, 
+        "inTimestamp": 1415706953, 
+        "outSize": 7537005, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-55-52_gle20141110_indien_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51143380, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-55-52_gle20141110_indien_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415707258, 
+        "compressionRatioInPercent": 14.623816378870089, 
+        "inTimestamp": 1415707086, 
+        "outSize": 9520863, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_11-58-04_gle20141110_usa_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 65105187, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_11-58-04_gle20141110_usa_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415707478, 
+        "compressionRatioInPercent": 14.919894148094949, 
+        "inTimestamp": 1415707260, 
+        "outSize": 11961128, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-00-58_globalideas_en20141110_Kenia_lang_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 80168987, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-00-58_globalideas_en20141110_Kenia_lang_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415707639, 
+        "compressionRatioInPercent": 14.864059074870214, 
+        "inTimestamp": 1415707480, 
+        "outSize": 10263271, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-04-38_gle20141110_honduras_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 69047566, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-04-38_gle20141110_honduras_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415707776, 
+        "compressionRatioInPercent": 15.039480008778572, 
+        "inTimestamp": 1415707689, 
+        "outSize": 5361642, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-08-03_kune20141111_12b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 35650448, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-08-03_kune20141111_12b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415707896, 
+        "compressionRatioInPercent": 14.775520637002938, 
+        "inTimestamp": 1415707778, 
+        "outSize": 7576017, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-09-36_eme20141110_posen_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51274112, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-09-36_eme20141110_posen_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415708049, 
+        "compressionRatioInPercent": 14.424531409108951, 
+        "inTimestamp": 1415707898, 
+        "outSize": 9695753, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-11-36_eme20141110_fettebeute_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 67217109, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-11-36_eme20141110_fettebeute_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415708210, 
+        "compressionRatioInPercent": 14.629829611309066, 
+        "inTimestamp": 1415708052, 
+        "outSize": 9261666, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-14-09_eme20141110_seriewahrzeichen01_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 63306725, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-14-09_eme20141110_seriewahrzeichen01_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415708947, 
+        "compressionRatioInPercent": 14.801087347921365, 
+        "inTimestamp": 1415708218, 
+        "outSize": 46127047, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-16-50_eme20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 311646340, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-16-50_eme20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415709065, 
+        "compressionRatioInPercent": 14.354601597020766, 
+        "inTimestamp": 1415708950, 
+        "outSize": 6660089, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-29-07_gt20140408_automatenkunst_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 46396892, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-29-07_gt20140408_automatenkunst_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415709161, 
+        "compressionRatioInPercent": 14.302458593681484, 
+        "inTimestamp": 1415709067, 
+        "outSize": 5331231, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-31-05_gt20140408_seriegruender_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 37274927, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-31-05_gt20140408_seriegruender_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415709269, 
+        "compressionRatioInPercent": 15.70389861885363, 
+        "inTimestamp": 1415709163, 
+        "outSize": 6610743, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-32-41_gt20140408_talent_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 42096190, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-32-41_gt20140408_talent_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415709628, 
+        "compressionRatioInPercent": 14.660980642321597, 
+        "inTimestamp": 1415709274, 
+        "outSize": 21007244, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-34-29_gt20141111_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 143286759, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-34-29_gt20141111_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415709672, 
+        "compressionRatioInPercent": 14.68927190737795, 
+        "inTimestamp": 1415709632, 
+        "outSize": 2344852, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-40-28_je20141111_quote22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 15963024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-40-28_je20141111_quote22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415709749, 
+        "compressionRatioInPercent": 15.519780218357914, 
+        "inTimestamp": 1415709676, 
+        "outSize": 4436627, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-41-12_je20141110_jakarta15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 28586919, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-41-12_je20141110_jakarta15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415709776, 
+        "compressionRatioInPercent": 15.130221582310215, 
+        "inTimestamp": 1415709751, 
+        "outSize": 1644587, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-42-29_je20141111_hong01b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10869550, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-42-29_je20141111_hong01b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415709815, 
+        "compressionRatioInPercent": 14.441855484533233, 
+        "inTimestamp": 1415709777, 
+        "outSize": 2108639, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-42-56_je20141110_wmfilm22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 14600887, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-42-56_je20141110_wmfilm22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415709860, 
+        "compressionRatioInPercent": 15.31554154007004, 
+        "inTimestamp": 1415709816, 
+        "outSize": 2609216, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-43-35_je20141110_apec21a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17036394, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-43-35_je20141110_apec21a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415709886, 
+        "compressionRatioInPercent": 14.158598299332477, 
+        "inTimestamp": 1415709861, 
+        "outSize": 1480841, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-44-20_she20141110_exit_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10458952, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-44-20_she20141110_exit_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415709976, 
+        "compressionRatioInPercent": 14.810562564384817, 
+        "inTimestamp": 1415709887, 
+        "outSize": 4613290, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-44-46_she20141110_bahn_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 31148648, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-44-46_she20141110_bahn_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415710105, 
+        "compressionRatioInPercent": 14.579413888208414, 
+        "inTimestamp": 1415709977, 
+        "outSize": 7266173, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-46-16_she20141110_google_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 49838581, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-46-16_she20141110_google_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415710470, 
+        "compressionRatioInPercent": 14.882393204050654, 
+        "inTimestamp": 1415710108, 
+        "outSize": 21250937, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-48-25_she20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 142792471, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-48-25_she20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415710520, 
+        "compressionRatioInPercent": 15.331453164775098, 
+        "inTimestamp": 1415710471, 
+        "outSize": 3245519, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-54-30_je20141110_trauern20a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 21169024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-54-30_je20141110_trauern20a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415710570, 
+        "compressionRatioInPercent": 14.826474610007226, 
+        "inTimestamp": 1415710520, 
+        "outSize": 2828345, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-55-20_je20141110_nahost22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 19076315, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-55-20_je20141110_nahost22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415710705, 
+        "compressionRatioInPercent": 14.737009951239045, 
+        "inTimestamp": 1415710571, 
+        "outSize": 7537005, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-56-10_gle20141110_indien_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51143380, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-56-10_gle20141110_indien_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415710879, 
+        "compressionRatioInPercent": 14.623816378870089, 
+        "inTimestamp": 1415710707, 
+        "outSize": 9520863, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_12-58-25_gle20141110_usa_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 65105187, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_12-58-25_gle20141110_usa_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415711103, 
+        "compressionRatioInPercent": 14.919894148094949, 
+        "inTimestamp": 1415710881, 
+        "outSize": 11961128, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-01-19_globalideas_en20141110_Kenia_lang_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 80168987, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-01-19_globalideas_en20141110_Kenia_lang_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415711264, 
+        "compressionRatioInPercent": 14.864059074870214, 
+        "inTimestamp": 1415711104, 
+        "outSize": 10263271, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-05-03_gle20141110_honduras_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 69047566, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-05-03_gle20141110_honduras_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415711379, 
+        "compressionRatioInPercent": 15.039480008778572, 
+        "inTimestamp": 1415711289, 
+        "outSize": 5361642, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-08-03_kune20141111_12b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 35650448, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-08-03_kune20141111_12b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415711498, 
+        "compressionRatioInPercent": 14.775520637002938, 
+        "inTimestamp": 1415711380, 
+        "outSize": 7576017, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-09-39_eme20141110_posen_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51274112, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-09-39_eme20141110_posen_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415711576, 
+        "compressionRatioInPercent": 14.611082052359286, 
+        "inTimestamp": 1415711502, 
+        "outSize": 4918337, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-11-38_emd20111111_hamburgrich2_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 33661689, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-11-38_emd20111111_hamburgrich2_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415711736, 
+        "compressionRatioInPercent": 14.629829611309066, 
+        "inTimestamp": 1415711578, 
+        "outSize": 9261666, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-12-56_eme20141110_seriewahrzeichen01_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 63306725, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-12-56_eme20141110_seriewahrzeichen01_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415712474, 
+        "compressionRatioInPercent": 14.801087347921365, 
+        "inTimestamp": 1415711745, 
+        "outSize": 46127047, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-15-36_eme20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 311646340, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-15-36_eme20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415712590, 
+        "compressionRatioInPercent": 14.354601597020766, 
+        "inTimestamp": 1415712475, 
+        "outSize": 6660089, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-27-54_gt20140408_automatenkunst_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 46396892, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-27-54_gt20140408_automatenkunst_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415712686, 
+        "compressionRatioInPercent": 14.302458593681484, 
+        "inTimestamp": 1415712591, 
+        "outSize": 5331231, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-29-50_gt20140408_seriegruender_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 37274927, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-29-50_gt20140408_seriegruender_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415712795, 
+        "compressionRatioInPercent": 15.70389861885363, 
+        "inTimestamp": 1415712687, 
+        "outSize": 6610743, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-31-26_gt20140408_talent_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 42096190, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-31-26_gt20140408_talent_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415713162, 
+        "compressionRatioInPercent": 14.660980642321597, 
+        "inTimestamp": 1415712799, 
+        "outSize": 21007244, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-33-15_gt20141111_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 143286759, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-33-15_gt20141111_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415713201, 
+        "compressionRatioInPercent": 14.68927190737795, 
+        "inTimestamp": 1415713163, 
+        "outSize": 2344852, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-39-22_je20141111_quote22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 15963024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-39-22_je20141111_quote22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415713279, 
+        "compressionRatioInPercent": 15.519780218357914, 
+        "inTimestamp": 1415713202, 
+        "outSize": 4436627, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-40-01_je20141110_jakarta15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 28586919, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-40-01_je20141110_jakarta15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415713303, 
+        "compressionRatioInPercent": 15.130221582310215, 
+        "inTimestamp": 1415713279, 
+        "outSize": 1644587, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-41-19_je20141111_hong01b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10869550, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-41-19_je20141111_hong01b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415713341, 
+        "compressionRatioInPercent": 14.441855484533233, 
+        "inTimestamp": 1415713304, 
+        "outSize": 2108639, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-41-43_je20141110_wmfilm22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 14600887, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-41-43_je20141110_wmfilm22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415713387, 
+        "compressionRatioInPercent": 15.31554154007004, 
+        "inTimestamp": 1415713342, 
+        "outSize": 2609216, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-42-21_je20141110_apec21a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17036394, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-42-21_je20141110_apec21a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415713412, 
+        "compressionRatioInPercent": 14.158598299332477, 
+        "inTimestamp": 1415713387, 
+        "outSize": 1480841, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-43-07_she20141110_exit_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10458952, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-43-07_she20141110_exit_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415713504, 
+        "compressionRatioInPercent": 14.810562564384817, 
+        "inTimestamp": 1415713413, 
+        "outSize": 4613290, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-43-32_she20141110_bahn_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 31148648, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-43-32_she20141110_bahn_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415713633, 
+        "compressionRatioInPercent": 14.579413888208414, 
+        "inTimestamp": 1415713506, 
+        "outSize": 7266173, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-45-04_she20141110_google_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 49838581, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-45-04_she20141110_google_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415714007, 
+        "compressionRatioInPercent": 14.882393204050654, 
+        "inTimestamp": 1415713638, 
+        "outSize": 21250937, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-47-13_she20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 142792471, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-47-13_she20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415714057, 
+        "compressionRatioInPercent": 15.331453164775098, 
+        "inTimestamp": 1415714008, 
+        "outSize": 3245519, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-53-27_je20141110_trauern20a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 21169024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-53-27_je20141110_trauern20a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415714108, 
+        "compressionRatioInPercent": 14.826474610007226, 
+        "inTimestamp": 1415714057, 
+        "outSize": 2828345, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-54-17_je20141110_nahost22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 19076315, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-54-17_je20141110_nahost22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415714241, 
+        "compressionRatioInPercent": 14.737009951239045, 
+        "inTimestamp": 1415714109, 
+        "outSize": 7537005, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-55-08_gle20141110_indien_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51143380, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-55-08_gle20141110_indien_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415714413, 
+        "compressionRatioInPercent": 14.623816378870089, 
+        "inTimestamp": 1415714243, 
+        "outSize": 9520863, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_13-57-21_gle20141110_usa_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 65105187, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_13-57-21_gle20141110_usa_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415714638, 
+        "compressionRatioInPercent": 14.919894148094949, 
+        "inTimestamp": 1415714415, 
+        "outSize": 11961128, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-00-13_globalideas_en20141110_Kenia_lang_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 80168987, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-00-13_globalideas_en20141110_Kenia_lang_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415714798, 
+        "compressionRatioInPercent": 14.864059074870214, 
+        "inTimestamp": 1415714640, 
+        "outSize": 10263271, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-03-58_gle20141110_honduras_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 69047566, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-03-58_gle20141110_honduras_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415714979, 
+        "compressionRatioInPercent": 14.862079934726257, 
+        "inTimestamp": 1415714892, 
+        "outSize": 5339204, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-08-03_kune20141111_14b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 35925012, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-08-03_kune20141111_14b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415715101, 
+        "compressionRatioInPercent": 14.775520637002938, 
+        "inTimestamp": 1415714981, 
+        "outSize": 7576017, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-09-40_eme20141110_posen_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51274112, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-09-40_eme20141110_posen_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415715179, 
+        "compressionRatioInPercent": 14.611082052359286, 
+        "inTimestamp": 1415715107, 
+        "outSize": 4918337, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-11-41_emd20111111_hamburgrich2_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 33661689, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-11-41_emd20111111_hamburgrich2_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415715339, 
+        "compressionRatioInPercent": 14.629829611309066, 
+        "inTimestamp": 1415715181, 
+        "outSize": 9261666, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-12-59_eme20141110_seriewahrzeichen01_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 63306725, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-12-59_eme20141110_seriewahrzeichen01_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415716077, 
+        "compressionRatioInPercent": 14.801087347921365, 
+        "inTimestamp": 1415715352, 
+        "outSize": 46127047, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-15-39_eme20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 311646340, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-15-39_eme20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415716197, 
+        "compressionRatioInPercent": 14.354601597020766, 
+        "inTimestamp": 1415716078, 
+        "outSize": 6660089, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-27-57_gt20140408_automatenkunst_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 46396892, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-27-57_gt20140408_automatenkunst_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415716294, 
+        "compressionRatioInPercent": 14.302458593681484, 
+        "inTimestamp": 1415716198, 
+        "outSize": 5331231, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-29-57_gt20140408_seriegruender_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 37274927, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-29-57_gt20140408_seriegruender_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415716400, 
+        "compressionRatioInPercent": 15.70389861885363, 
+        "inTimestamp": 1415716295, 
+        "outSize": 6610743, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-31-34_gt20140408_talent_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 42096190, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-31-34_gt20140408_talent_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415716762, 
+        "compressionRatioInPercent": 14.660980642321597, 
+        "inTimestamp": 1415716407, 
+        "outSize": 21007244, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-33-20_gt20141111_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 143286759, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-33-20_gt20141111_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415716801, 
+        "compressionRatioInPercent": 14.68927190737795, 
+        "inTimestamp": 1415716763, 
+        "outSize": 2344852, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-39-22_je20141111_quote22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 15963024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-39-22_je20141111_quote22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415716876, 
+        "compressionRatioInPercent": 15.519780218357914, 
+        "inTimestamp": 1415716802, 
+        "outSize": 4436627, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-40-01_je20141110_jakarta15a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 28586919, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-40-01_je20141110_jakarta15a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415717074, 
+        "compressionRatioInPercent": 16.499492206377973, 
+        "inTimestamp": 1415717033, 
+        "outSize": 2752441, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-41-16_je20141111_apec11b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 16681974, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-41-16_je20141111_apec11b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415717100, 
+        "compressionRatioInPercent": 15.130221582310215, 
+        "inTimestamp": 1415717075, 
+        "outSize": 1644587, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-44-34_je20141111_hong01b_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10869550, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-44-34_je20141111_hong01b_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415717138, 
+        "compressionRatioInPercent": 14.441855484533233, 
+        "inTimestamp": 1415717101, 
+        "outSize": 2108639, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-45-00_je20141110_wmfilm22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 14600887, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-45-00_je20141110_wmfilm22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415717183, 
+        "compressionRatioInPercent": 15.31554154007004, 
+        "inTimestamp": 1415717139, 
+        "outSize": 2609216, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-45-38_je20141110_apec21a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 17036394, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-45-38_je20141110_apec21a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415717325, 
+        "compressionRatioInPercent": 14.158598299332477, 
+        "inTimestamp": 1415717300, 
+        "outSize": 1480841, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-46-24_she20141110_exit_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 10458952, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-46-24_she20141110_exit_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415717451, 
+        "compressionRatioInPercent": 14.810562564384817, 
+        "inTimestamp": 1415717363, 
+        "outSize": 4613290, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-48-45_she20141110_bahn_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 31148648, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-48-45_she20141110_bahn_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415717584, 
+        "compressionRatioInPercent": 14.579413888208414, 
+        "inTimestamp": 1415717459, 
+        "outSize": 7266173, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-50-51_she20141110_google_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 49838581, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-50-51_she20141110_google_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415717973, 
+        "compressionRatioInPercent": 14.882393204050654, 
+        "inTimestamp": 1415717611, 
+        "outSize": 21250937, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-53-04_she20141110_gesamt_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 142792471, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-53-04_she20141110_gesamt_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415718139, 
+        "compressionRatioInPercent": 15.331453164775098, 
+        "inTimestamp": 1415718089, 
+        "outSize": 3245519, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_14-59-33_je20141110_trauern20a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 21169024, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_14-59-33_je20141110_trauern20a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415718345, 
+        "compressionRatioInPercent": 14.826474610007226, 
+        "inTimestamp": 1415718296, 
+        "outSize": 2828345, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_15-02-19_je20141110_nahost22a_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 19076315, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_15-02-19_je20141110_nahost22a_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415719009, 
+        "compressionRatioInPercent": 14.737009951239045, 
+        "inTimestamp": 1415718879, 
+        "outSize": 7537005, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_15-05-45_gle20141110_indien_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 51143380, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_15-05-45_gle20141110_indien_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": 1415719602, 
+        "compressionRatioInPercent": 14.623816378870089, 
+        "inTimestamp": 1415719431, 
+        "outSize": 9520863, 
+        "outFile": "/mnt/vdb1/transcoded/2014-11-11_15-16-49_gle20141110_usa_sd_avc.mp4_transcoded.mp4", 
+        "inSize": 65105187, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_15-16-49_gle20141110_usa_sd_avc.mp4"
+    }, 
+    {
+        "outTimestamp": null, 
+        "compressionRatioInPercent": 0.0, 
+        "inTimestamp": 1415719662, 
+        "outSize": null, 
+        "outFile": null, 
+        "inSize": 7061504, 
+        "inFile": "/mnt/vdb1/downloaded/2014-11-11_15-26-42_globalideas_en20141110_Kenia_lang_sd_avc.mp4"
+    }
+]
